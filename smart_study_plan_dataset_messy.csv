@@ -1,0 +1,1305 @@
+Smart Study Plan Export - DO NOT SHARE,,,,,,,,,,,,
+,,,,,,,,,,,,
+student id, Subject ,MARKS_OBTAINED,max marks,Attendance %,Study Hours ,difficulty_level,Exam Date,sleep hours,Goal_Score ,Remarks,Unnamed: 0,Entry_Timestamp
+STU0104,English Communication,34.0,50,80.4,9.5 hrs,1,2026-12-18,7.9,45,verified,623,2026-11-03T10:45:00
+STU0059,Chemistry,32.0,50,98.4,0,2,2026-12-11,6.9,40,needs review,350,2026-11-03T10:45:00
+STU0102,Mathematics,30.5,50,150,10.3,5,26-12-07,7.6,35,??,606,
+STU0087,chemistry ,42.5,50,N/A,-3,4,2026-12-11,7.7,50,??,518,2026-11-01 09:15
+STU0019,Chemistry,30.0,50,81.5,4.0,3,26-12-11,7.2,40/50,retake,110,yesterday
+STU0026,Physics,36.5,50,82.2,6.7h,2,2026-12-09,6.3,45,,151,yesterday
+STU-0019,English Communication,AB,50,86.3,4.5,1,"Dec 18, 2026",7.2,45,,113,2026-11-03T10:45:00
+STU0079,English Communication,31.5,50,57.0,8.0,3,2026-12-18,9.0,35,see note,473,2026-11-01 09:15
+STU0047,Chemistry,27.0,50,58.2,6.6,3,December 11 2026,5.9,high,needs review,278,01/11/2026 14:02
+STU0156,English Communication,34.0,100,70.2,324 min,3,26-12-18,7.3,40,retake,935,
+STU0056,Mathematics,22.0,50,66.9,6.0,4,2026-12-07,,500,check later,330,Nov 2 2026
+STU0133,Chemistry,35.5  ,?,74.7,7.0,2,2026-12-11,6.8,45pts,see note,794,01/11/2026 14:02
+STU0172,chem,49.5,50,88.1,9.0,5.0,2026-12-11,6.0,50,late entry,1028,
+STU0051,English Communication,22.5,50,75.3 %,6.6,2,2026-12-18,5.7,30,verified,305,2026-11-01 09:15
+STU0119,English Communication,49.5,50,NULL,9.2,2,2026-12-18,6.5,50,check later,713,01/11/2026 14:02
+STU0150,ENGINEERING DRAWING,74%,50,75.6,7.1,3,16.12.2026,7.9,40,see note,898,
+STU0170,Physics,38.5,50,88.3,3.3,5.0,2026-12-09,--,50,,1015,01/11/2026 14:02
+STU0072,English Communication,27.0,50,98.7,2.6,2,2026-12-18,7.9,35,retake,431,Nov 2 2026
+STU0087,Physics,40.5,50,63.3,6.9,5,09/12/2026,7.7,45,verified,517,Nov 2 2026
+STU0152,PHYSICS,N/A,100,66.3,564 min,5,2026-12-09,7.0,35.0,see note,907,01/11/2026 14:02
+STU0183,Mathematics,23.5,50,0.849,6.2,3,2026-13-45,8.9h,30,see note,1092,2026-11-03T10:45:00
+STU0171,Mathematics,32.5,50,80.6,12.8,4,2026-12-07,6.5,40,needs review,1020,2026-11-01 09:15
+STU0148,engineering drawing,27.0,50,78.5,9.1,N/A,16.12.2026,5.4,30,,886,yesterday
+STU0171,engineering drawing,36.0,50,76.2,7.7,2,2026-12-16,6.5,45,,1024,
+S0029,Chemistry,18.0,50,66.6,5.4,3,December 11 2026,7.3,25,verified,170,
+STU0107,physics,31.5,50,95.2 %,6.3,3,2026/12/09,8.2,40,see note,637,
+STU0037,Engineering Drawing,31.0,50,84.0,4.7,2,2026-12-16,5.9,40,see note,220,2026-11-01 09:15
+STU0009	,Programming,30.0,50,100.0,6.9,3,14.12.2026,8.9,35,retake,51,2026-11-01 09:15
+STU0085,PROGRAMMING,36.5,50,64.3,7.2,2,2026-12-14,7.0,40,late entry,507,01/11/2026 14:02
+STU0063,mathematics,42.5,50,88.5,6.6,4,2026-12-07,6.0,50,verified,372,Nov 2 2026
+STU0133,Math ,41.0,50,80%,7.8,4,2026-12-07,6.8,50,see note,792,2026-11-01 09:15
+STU0030,english communication,37.0  ,50,76.2,5.0,1,2026-12-18,5.4,40,,179,01/11/2026 14:02
+STU0058,english communication,31.0,50,71.4,4.8,-,N/A,6.1,40,check later,347,Nov 2 2026
+STU0006,Engineering Drawing,33.0,50,69.2%,252 min,3,16.12.2026,7.8,45,,34,Nov 2 2026
+STU0061,Programming,75,50,79.0,5.7,2,14.12.2026,7.4,30,,363,yesterday
+STU0035,Programming,37.0  ,fifty,83.5,6.2,2,2026-12-14,6.8,45,check later,207,2026-11-01 09:15
+STU0133,English Communication,39.0,50,82.5,6.8,1.0,2026-12-18,6.8,45/50,late entry,797,2026-11-01 09:15
+STU0011,Programming,38.5,50,NULL,3.0,Easy,2026-12-14,None,50,check later,63,2026-11-03T10:45:00
+STU0108,Mathmatics,42.0,50,87.6,5.4,3,2026-12-07,6.7,50,??,642,yesterday
+STU0120,Engineering Drawing,32.5,50,76.5,4.8,3,2026-12-16,6.6,40,late entry,718,
+STU0137,Mathematics,22.5,50,87.4,6.1,3,07-Dec-2026,8.8,35,retake,816,2026-11-03T10:45:00
+STU0069,mathematics,40.5,50, ,8.4,4,2026-12-07,8.2,45,needs review,408,
+STU0127,Physics,29.0,50,71.2,11h 5m,4,09-Dec-2026,6.6,40,verified,757,2026-11-03T10:45:00
+STU0117,Mathematics,44.0,50,88.9,7.6,4,December 07 2026,6.9,50,see note,696,Nov 2 2026
+STU0019,maths,32.0,50,73.6,5.7,MEDIUM,2026-12-07,7.2,40,retake,108,
+S0089,English Communication,?,50,77.8,6h 17m,med,2026-12-18,8.4,45/50,verified,533,
+STU0200,Programming,42.5,50,74.5,9.7,3,14-Dec-2026,7.1,45,retake,1197,yesterday
+STU0120,Programming,32.5,50,85.0,7.4,4,2026-12-14,6.6,45,,717,Nov 2 2026
+STU0109,Chemistry,21.5,50,66.6,--,3,2026-12-11,5.7,35,see note,650,
+STU0097,Chemistry,36.5,50,78.4,5.2,3,2026-12-11,6.5,40,check later,578,
+STU0069,Engineering Drawing,46.0,50,99.9,6.7,2,2026-12-16,8.2,50,needs review,412,01/11/2026 14:02
+STU0176,English Communication,40.5,50,70.0,5h 5m,3,December 18 2026,6.6,45 ,retake,1055,2026-11-03T10:45:00
+STU0044,Engineering Drawing,34.5 marks,50,91%,4.5hours,3,2026-12-16,5.9,40,??,262,2026-11-01 09:15
+STU0182,Physics,20.5,50,76.1,9.0,5.0,2026-12-09,6.8,30,,1087,Nov 2 2026
+STU0178,English Communication,37.0,50,88.2,5.5 hrs,2,2026-12-18,5.4,45,needs review,1067,Nov 2 2026
+stu0088,Physics,32.5,50,60.8,6.3,3,2026-12-09,4.3,40,verified,523,2026-11-01 09:15
+STU0176,engineering drawing,39.5,50,73.4,5.4,2,12-16-2026,6.6,50,??,1054,2026-11-01 09:15
+STU0098,English Communication,39.5,50,75.3%,4.4,1,12-18-2026,7.4,50%,late entry,587,
+STU0057,Math ,36.5 marks,50,65.1,7.4,4,2026-12-07,7.4,50,,336,2026-11-01 09:15
+STU0121,Mathematics,28.0,50,64.5,2.6,3,2026-12-07,8.2,35,check later,720,
+ STU0190 ,Physics,37.0,50,78.2 %,4.6,Medium,2026-12-09,6.6,45,,1135,yesterday
+STU0092,Physcs,29.5,50,100,7.2,5,2026-12-09,7.8,40,verified,547,2026-11-03T10:45:00
+STU0137	,Engineering Drawing,22.0,50,67.4,6.2,1,"Dec 16, 2026",8.0,35,needs review,820,yesterday
+STU0194,Engineering Drawing,38.0,50,90.9,5.8,2,2026-12-16,7.4,50,see note,1162,Nov 2 2026
+STU0116,Physics,13.0,50,90.8,6.9,5,2026-12-09,5.2,15,retake,691,01/11/2026 14:02
+STU0079,Mathematics,32.5, 50,63.6,8.6,2,07.12.2026,9.8,45,retake,468,2026-11-03T10:45:00
+STU0171,PHYSICS,40.0,50,89.1,10.2h,4,2026-12-09,6.3,50,retake,1021,Nov 2 2026
+STU0088,Programming,31.5,50,58.5,6.9 hrs,4,2026-12-14,4.3,40,retake,525,yesterday
+---,,,,,,,,,,,,
+STU0194,PHYSICS,27.5,50,86.8,2.4,2,December 09 2026,7.4h,35,see note,1159,01/11/2026 14:02
+STU0076,Physics,29.5,50,0.48,6.4,4,2026-12-09,8.8,40,late entry,451,
+STU0121,Physics,29.0,50,68.4,9.1hours,5,2026-12-09,8.2,40,see note,721,yesterday
+STU0029,engineering drawing,22.5,50, ,4.7,1,16.12.2026,7.3,30.0,,172,yesterday
+Stu0123,,41.5,50,90.3,6.7,2,12-18-2026,9.0,50,,737,2026-11-03T10:45:00
+STU0121,Chemistry,28.5,50,55.8,5.3,3,11-Dec-2026,8.2,40,late entry,722,2026-11-01 09:15
+STU0180,Engineering Drawing,36.0,50,0.594,6.9hours,1,2026-12-16,7.5,45,,1078,yesterday
+STU0017,Chemistry,31.5,50,75.8,4.0,2,"Dec 11, 2026",6.6,45,see note,98,2026-11-03T10:45:00
+STU0107,English Communication,33.5  ,50,98.3,2.1,2 ,2026-12-18,8.2,45,see note,641,2026-11-03T10:45:00
+STU0024,Programming,37.0,50,82.5%,7.3,2,2026-12-14,7.7,45,,141,2026-11-01 09:15
+STU-0080,Engineering Drawing,32.0,50,45.1,8.3,2,2026/12/16,6.1 hrs,40,,478,
+STU0025,Chemistry,35.5,?,93.7,5.6,Very Easy,,7.0,45/50,needs review,146,
+STU0126,ENGLISH COMMUNICATION,35.0,50,85%,2.4 hrs,1,December 18 2026,6.0,40,,755,Nov 2 2026
+STU0012,Chemistry,31.5,50,68.1,8.0,3,2026-12-11,9.0,40,see note,68,2026-11-03T10:45:00
+STU0129,Chemistery,31.5,50,84.7,5.3,3,2026-12-11,7.2,35,,770,
+STU0112,English Communication,43.0,50,80.1,4.4,2,12-18-2026,7.7,50,needs review,671,Nov 2 2026
+STU0181,PROGRAMMING,-,50,88.4,5.7,3,2026-12-14,6.1,45,retake,1083,2026-11-01 09:15
+STU0198,Mathematics,22.0, 50,NULL,8.7,5,2026-12-07,6.4,30,,1182,Nov 2 2026
+STU0178,Physics,44.0,50,80.9,5.0,3,2026-12-09,5.4 hours,50,,1063,yesterday
+,,,,,,,,,,,,
+STU0173,physics,abs,50,69.9,6.2h,3,2026-12-09,7.0,35,see note,1033,
+STU0041,Physics,25.5,50,95.9,NULL,5,09.12.2026,6.4,35,,241,yesterday
+STU0144,English Communication,44.0,50,84.3,8.6 hrs,2,2026-12-18,6.1,50,,863,
+STU0089,Programming,34.0,50,68.4,6.4,3,2026-12-14,8.2,40,,531,
+STU0071,Mathematics,32.5,50,92.7,5.9,3,12-07-2026,6.5,40,see note,420,2026-11-03T10:45:00
+STU0096,Programming,22.5,50,74.3,7.6,3,2026-12-14,6.2,35,,573,yesterday
+STU0062,Programming,19.0,fifty,73%,7.2,4,2026-12-14,6.9,30,,369,2026-11-03T10:45:00
+STU0048,Chemistry,35.5,50,69.0,6.8,3,11.12.2026,8.4,45,,284,yesterday
+STU0043,mathematics,32.5  ,50,81.4,7.4,4,2026-12-07,7.5 hrs,40,late entry,252,Nov 2 2026
+STU0043,Physics  ,33.0,50,66.8,8.1,4,2026-12-09,7.5,40,,253,2026-11-03T10:45:00
+STU0039,Mathematics,28.0,50,47.7,8.0,4,2026/12/07,6.4h,35,,228,2026-11-01 09:15
+STU0155,English Communication,48.0,50,93.9,2.5,1,2026-12-18,8.2,50,see note,929,Nov 2 2026
+STU0115,Physics,31.5,50,71.8,6.3,4,2026-12-09,6.8,35,??,685,2026-11-03T10:45:00
+STU0125,Programming,44.5,50,75.7,11.4hours,3,2026-12-14,6.5,50,,747,2026-11-01 09:15
+STU0070,chem,35.0,50,84.1,8.3,4,11.12.2026,6.6,40,check later,416,yesterday
+STU0005,Programming,44.5,50,100.0,10.7,,14.12.2026,8.8,50,,27,2026-11-03T10:45:00
+STU0156,Engineering Drawing,40.0,50,56.9%,7.3,2,12-16-2026,7.3 hrs,45,,934,Nov 2 2026
+STU0095,Physics  ,24.0,50,NULL,5.2,5,09/12/2026,6.0,30pts,,565,
+STU0035,Math ,abs,50,86.4,4.2,2,07.12.2026,6.8,45,retake,204,2026-11-03T10:45:00
+STU0032,Mathematics,38.0,50,95.5,11.7,4,07.12.2026,5.4,45,see note,186,2026-11-03T10:45:00
+STU0137,Physics,29.0,50,68.0,9.0,5,2026-12-09,N/A,40,retake,817,yesterday
+STU0165,Physics,39.0,50,64.4,12.4,4,2026-12-09,7.2,45,,985,2026-11-01 09:15
+STU0138,Chemistry,26.0,fifty,72.8,5.8,3,11/12/2026,6.0 hrs,30,needs review,824,2026-11-01 09:15
+STU0139,Programming,38.0,50,100.0,,4,2026-12-14,5.7,45,??,831,01/11/2026 14:02
+Stu0019,Physics,30,50,73.8,5.3,4,2026-12-09,7.2,35,retake,109,yesterday
+STU0028,Chemistry,33.5,50,69.3,8.3,3,11.12.2026,8.2,40,needs review,164,
+STU0193,Physcs,35.0,50,65.5,3.2,2,2026-12-09,6.9,45,,1153,2026-11-01 09:15
+STU0032,programming,999,100,83.6,9.5,2,2026-12-14,5.4,40,verified,189,2026-11-03T10:45:00
+ STU0060 ,Physics,24.5,50,70.0,null,4,null,6.7,30,late entry,355,Nov 2 2026
+STU0098,Programming,35.5,50,73.0,7.0,3,26-12-14,,45,needs review,585,Nov 2 2026
+STU0008,Engineering Drawing,33.0,50,67.3,N/A,2,"Dec 16, 2026",6.3,40,see note,46,01/11/2026 14:02
+STU0091,Physics,29.5,50,73.6%,7.6,5,09-Dec-2026,-,35,,541,yesterday
+STU0143,English Communication ,31.0,50,48.5,3.2,1,2026-12-18,7.0,35,needs review,857,2026-11-03T10:45:00
+stu0017,English Communication,27.5,50,NA,270 min,2,2026-13-45,6.6,35,,101,01/11/2026 14:02
+STU0114,Programming,38.0,50,65.5,7.4,3,"Dec 14, 2026",7.4,50.0,??,681,yesterday
+STU0141,Programming,None,50,62.6,9.1,4,2026-12-14,5.6,40,verified,843,yesterday
+STU0102,engineering drawing,45.0,50,69.0,?,3,2026-12-16,7.6,50,see note,610,01/11/2026 14:02
+STU0022	,Chemistry,30.0,50,56.5,5.4,4,2026-12-11,5.6,35.0,retake,128,
+STU0195,English Communication,22.5,50,90.9,6.4,3,18.12.2026,6.7,30,,1169,2026-11-03T10:45:00
+ STU0108 ,Physcs,39.5  ,50,77.7,8.3,3 ,--,6.7,50,retake,643,2026-11-03T10:45:00
+STU0159,English Communication,32%,50,76.8,4.8,3,2026-12-18,NULL,20,,953,
+STU-0090,Mathematics,23.0,50,84.1,0,Medium,2026-12-07,8.3,30,check later,534,01/11/2026 14:02
+STU0150,Physics,31.5,50,78.3,6.0,4,2026-12-09,7.9,35,retake,895,2026-11-01 09:15
+STU0148,Mathematics,25.5,50,80.7,10.7,4,2026/12/07,5.4,35,,882,2026-11-01 09:15
+STU0139,Programming,38.0,50,100.0,,4,2026-12-14,5.7,45,??,831,01/11/2026 14:02
+STU0138,Chemistry,26.0,fifty,72.8,5.8,3,11/12/2026,6.0 hrs,30,needs review,824,2026-11-01 09:15
+STU0107,Chemistry,24.0,50,86.4,2.7,2,2026-12-11,8.2 hours,30,see note,638,
+STU0069,mathematics,40.5,50, ,8.4,4,2026-12-07,8.2,45,needs review,408,
+stu0143,programming,26.5,50,50.7,3.9,1,2026-12-14,7.6,35,see note,855,Nov 2 2026
+STU0199,Engineering Drawing,49.5,50,--,8.3,1,2026-12-16,-,50,verified,1192,2026-11-01 09:15
+STU0192,Mathematics,30.0,50,47.9,7.0,3,2026-12-07,5.8,35,verified,1146,2026-11-01 09:15
+STU0172,Mathematics,49.5,50,89.0,5.6,Hard,2026-12-07,6.0,50,,1026,Nov 2 2026
+STU0120,Chemistry,-1,50,77.1,6.4,3,2026-12-11,6.6 hours,40,,716,Nov 2 2026
+STU0123,PHYSICS,39.0,50 marks,80.1,4.6,4,12-09-2026,9.0,50,see note,733,yesterday
+STU0055,Engineering Drawing,34.0,50,82.0,4.2,2,2026-12-16,7.0,40,see note,328,
+STU0158,Physics,33.5/50,50,100.0,6.6,Hard,09.12.2026,6.8,35,see note,943,2026-11-01 09:15
+STU0077,Physics,48.5,50,73.3,6.8,4,2026-12-09,7.8,50,check later,457,yesterday
+STU0119,Engineering Drawing,44.5,50,78.2,8.7,MEDIUM,2026-12-16,6.5,50,see note,712,
+STU0011,Mathematics,33.0,50,66%,6.8,--,12-07-2026,7.1,35,??,60,
+STU0157,English Communication,999,--,72.8 %,6.6,3,2026-12-18,7.3,500,,941,
+STU0053,chemistry ,22.0,50,82.9,8.8,4,2026-12-11,5.9,30,??,314,2026-11-01 09:15
+STU0085,Chemistry,46.5,50,82.5,9.0,2,2026-12-11,7.0,50,retake,506,2026-11-03T10:45:00
+student id, Subject ,MARKS_OBTAINED,max marks,Attendance %,Study Hours ,difficulty_level,Exam Date,sleep hours,Goal_Score ,Remarks,Unnamed: 0,Entry_Timestamp
+STU0018,Mathematics,41.0,50,48.4,0,?,12-07-2026,7.2,50,duplicate?,102,Nov 2 2026
+STU0082,Programming,39.5,50,70.6,9.1,4,2026-12-14,6.4,50,see note,489,
+STU0164,Engineering Drawing,34.5,50,83.5,6h 54m,3,2026-12-16,6.6,45,,982,2026-11-03T10:45:00
+STU0126,Engineering Drawing,31.5,50,84.6,204 min,2,16.12.2026,NULL,40,see note,754,yesterday
+STU0188,chemistry ,33.5,50,73.5,11.2,easy,26-12-11,6.8, ,,1124,yesterday
+Stu0104,Prog.,34.5,50,81%,7.8,?,2026-12-14,7.9,40,,621,
+STU0181,Physics,28.5,50,NULL,6.4,-1,09-Dec-2026,6.1,30,,1081,01/11/2026 14:02
+STU0118,Engineering Drawing,31.5,50,77.6,4.2hours,1,December 16 2026,7.0,40,,706,2026-11-01 09:15
+STU0037,Mathematics,36.5,50,89.2,8.3,5,12-07-2026,5.9,40,see note,216,Nov 2 2026
+STU0106,Chemistery,37.0,50,77.8%,9.7,3,2026-12-11,8.5,,see note,632,2026-11-01 09:15
+STU0034,Mathematics,35.5,50,90.0,7.0,4,31/02/2026,6.1,40,see note,198,yesterday
+STU0151,English Communication,43.0,None,76.8,11.2,3,12-18-2026,5.8,45,,905,yesterday
+STU0002,Programming,72%,50,67.1,7.8,3,2026-12-14,6.7,40,,9,Nov 2 2026
+Stu0102,Programming,38.0,50,60.2,11.1h,3,2026-12-14,7.6,45,retake,609,
+STU0009,English Communication,36.0,50,100%,4.4,3,18-Dec-2026,8.9,40pts,see note,53,01/11/2026 14:02
+STU0003,Programming,40.5,50,71.8,24,3,December 14 2026,5.5,45,check later,15,2026-11-03T10:45:00
+STU0076,Engineering Drawing,38.0,50,67.1,9.1,2,12-16-2026,8.8,50/50,retake,454,2026-11-01 09:15
+STU0095,Mathematics,19.5,50,88.3,4.5,3,2026-12-07,6.0,30.0,see note,564,2026-11-01 09:15
+STU0059,Programming,36.0,50,100.0,6.3,2,2026-12-14,6.9,45%,??,351,01/11/2026 14:02
+STU0007,null,28.0,50,69.6 %,--,Hard,2026-12-16,6.8,40%,,40,2026-11-01 09:15
+STU0172,English Communication,49.5,50,100.0,8.0,2.0,26-12-18,6.0,50,,1031,2026-11-03T10:45:00
+STU0109,Mathematics,22.5,50,66.3,8.1,4,2026-12-07,5.7,35,needs review,648,01/11/2026 14:02
+ STU0109 ,Engineering Drawing ,15.0,50,62.1,7.9,3,2026/12/16,5.7,20,,652,01/11/2026 14:02
+STU0104,Mathematics,36.5,50,86.9,8.5,4,2026/12/07,7.9,45,duplicate?,618,yesterday
+STU0044,English Communication,37.5,50,150,4.2,2,2026-12-18,5.9,45 ,,263,2026-11-01 09:15
+STU0014,English Communication,37.5,50,74.6,6.1,2,2026-12-18,-2,45,,83,01/11/2026 14:02
+STU0070,Engineering Drawing,NA,50,65.4,5.3,1,2026-12-16,6.6,50,,418,yesterday
+STU0159,engineering drawing,21.0,50,74.0,5.7h,3.0,16/12/2026,6.4,25.0,??,952,yesterday
+STU0171,engineering drawing,36.0,50,76.2,7.7,2,2026-12-16,6.5,45,,1024,
+STU0094,Engineering Drawing,26.0,50,54.9,8.7,2,2026-12-16,6.5,35,check later,562,2026-11-01 09:15
+STU0078,English Communication,31.0,50,90.1%,1.4,1,2026-12-18,6.1,35,late entry,467,yesterday
+STU0040,Prog.,36.5,50,-,6.7,3.0,14.12.2026,7.1,45,check later,237,2026-11-01 09:15
+STU0132,null,26.5,50,93.9,8.8,4,2026-12-14,6.8,35,needs review,789,2026-11-01 09:15
+Stu0100,ENGINEERING DRAWING,36.0,50,85.1,5.4,1,2026-12-16,4.5,45,needs review,598,2026-11-01 09:15
+STU0084,English Communication,43.0,50,70.1,6.4,2,26-12-18,7.6,45,??,503,Nov 2 2026
+STU0140,Programming,23.5,50,89.9,8.0,,2026-12-14,5.9,35,check later,837,2026-11-01 09:15
+STU0017,Mathmatics,35.0,50,86.7,7.5,3,2026-12-07,6.6,40,verified,96,
+STU0169,Engineering Drawing,43.0,50,77.1,,3,2026/12/16,7.0,50,??,1012,Nov 2 2026
+STU0195,Programming,24.0,50,81.6,8.5,4,2026-12-14,6.7,30,late entry,1167,Nov 2 2026
+STU0183,Chemistry,19.0,fifty,90.6,4.4,4,2026-12-11,8.9,30,,1094,Nov 2 2026
+Stu0052,Chemistry,34.5,50,85.7,5.1,3,2026-12-11,6.3,45,needs review,308,Nov 2 2026
+STU0021,English Communication,39.0,50,92.4,8.4,2,18/12/2026,7.4,50,,125,
+,,,,,,,,,,,,
+STU0132,English Communication,29.5,50,95.8,7.0,1,2026-12-18,6.8,40,check later,791,2026-11-03T10:45:00
+STU-0010,Mathematics,33.0,50,88.9,9.3,5,2026-12-07,8.1,40,see note,54,yesterday
+STU0047,Engineering Drawing,27.0,50,66.8,5.3,1,2026-12-16,5.9 hours,35,,280,
+ STU0021 ,Programming,35.5,50,100,7.1,2,"Dec 14, 2026",7.4,40,verified,123,01/11/2026 14:02
+STU0017,,35.0,50,88.3,5.3,3,2026-12-14,N/A,40,??,99,Nov 2 2026
+STU0031,Chemistry,null,50,79.5,8.5,3.0,11-Dec-2026,7.1,40 ,duplicate?,182,
+STU0166,Mathematics,40.5,50,0.847,7h 24m,4,2026/12/07,6.6,50,,990,2026-11-03T10:45:00
+STU0172,Mathematics,49.5,50,89.0,5.6,Hard,2026-12-07,6.0,50,duplicate?,1026,Nov 2 2026
+STU0124,Engineering Drawing,,50,86.3,1.0,1,26-12-16,6.3,35,verified,742,Nov 2 2026
+STU0017,Physics,32.0,50,81.4,10.1,Hard,"Dec 09, 2026",6.6,40,verified,97,yesterday
+STU0039,Mathematics,28.0,50,47.7,8.0,4,2026/12/07,6.4h,35,,228,2026-11-01 09:15
+STU0188,Physics,25.0,50,82.0,8.9,4,2026-12-09,6.8,30.0,verified,1123,2026-11-03T10:45:00
+STU0135,Chemistry,29.5,50,74.0%,8.2,4,2026-12-11,6.9,40,late entry,806,2026-11-01 09:15
+ STU0023 ,Programming,40.5,50,71.2 %,5.4,3,2026-12-14,5.9,50,,135,2026-11-01 09:15
+STU0101,Programming,26.0,N/A,63.2,7.1,3,14/12/2026,7.4,35,needs review,603,Nov 2 2026
+STU0060	,Engineering Drawing,24.5,50,78.0,7.2,6,31/02/2026,6.7,30,,358,2026-11-03T10:45:00
+STU0064,Physics,30.5,50,89.1,6.8,4,2026-12-09,9.0,40pts,needs review,379,2026-11-03T10:45:00
+STU0003,mathematics,40.0,50,69.7,7.3,3,2026-12-07,5.5,50,late entry,12,2026-11-03T10:45:00
+STU0086,Physics,61%,50,71.4,None,3,2026-12-09,6.0,40,??,511,2026-11-03T10:45:00
+STU0130,English Communication,29.0,50,99.1,5.9,2,2026-12-18,5.5,35,??,779,Nov 2 2026
+STU0127,Chemistry,27.0,--,65.2,7.3,3,11.12.2026,6.6,30%,check later,758,Nov 2 2026
+STU0095,English Communication,24.5,50,91%,6.8,4,2026-12-18,6.0,30,??,569,01/11/2026 14:02
+STU0009,maths,None,50,87.9,6.1,4,26-12-07,8.9,45,check later,48,01/11/2026 14:02
+STU0003,Physics,38.0,50,66.5,NULL,4,09/12/2026,5.5,45,retake,13,2026-11-01 09:15
+STU0145,Prog.,28.0,50,77.7,4.1,3,"Dec 14, 2026",6.2,35,needs review,867,yesterday
+STU0044,English Communication,37.5,50,150,4.2,2,2026-12-18,5.9,45 ,duplicate?,263,2026-11-01 09:15
+STU0123,Chemistry,38.5,50,78.9,5.0,2,11-Dec-2026,9.0,50,retake,734,Nov 2 2026
+STU0146,Physics,44.5,50,87.3,4.8,MEDIUM,2026-12-09,5.1,50,verified,871,yesterday
+STU0072,Mathematics,15.0,50,98%,3.7,3,26-12-07,7.9,25,,426,2026-11-03T10:45:00
+STU0177,English Communication,41.5,50,72.4,7h 35m,2,2026-12-18,6.0,45,retake,1061,
+STU0089,maths,31.0,50,-10,9.3,5,2026-12-07,8.4,35,,528,01/11/2026 14:02
+STU0004,Chemistry,31.5,50,89.2,7.9,3,2026-12-11,5.9,35,late entry,20,2026-11-03T10:45:00
+STU0067,Physcs,26.5,50,57.1,9.8,4,2026-12-09,7.3,30,check later,397,yesterday
+STU0012,Chemistry,31.5,50,68.1,8.0,3,2026-12-11,9.0,40,duplicate?,68,2026-11-03T10:45:00
+STU0046,English Communication,75,50,82.1,534 min,3,2026-12-18,7.4,25,,275,Nov 2 2026
+STU0159,Mathematics,20.0,50,92.1,7.5,4,2026/12/07,6.4,30,verified,948,2026-11-03T10:45:00
+STU0063,Chemistry,41.5,50,76.4,5.3,3,26-12-11,6.5,50,verified,374,2026-11-03T10:45:00
+STU0161,Mathematics,37.5,50,70.4,10h 30m,5,07.12.2026,6.1,50,check later,960,
+STU0188,Math ,22.0,50,71.9,9.6,3.0,December 07 2026,6.9,30,??,1122,yesterday
+STU0085,english communication,None,50,77.0,9.6,2,26-12-18,7.0,50,,509,2026-11-03T10:45:00
+STU0156,Mathematics,40.5,50,71.2,5.3,3,2026-12-07,7.3h,50,check later,930,01/11/2026 14:02
+STU0166,programming,35.0/50,50,70.1 %,9.0,4,2026-12-14,6.6,45%,retake,993,2026-11-01 09:15
+STU0035,Physics,47.0,50,88.7,5.5,3,2026-12-09,6.8,50,check later,205,
+STU0099,Chemistry,42.5,50,78.6,6.6,2,11/12/2026,6.9,50,verified,590,yesterday
+STU0146,english communication,49.0,50,92.7 %,5.5,1,26-12-18,5.1,50,,875,01/11/2026 14:02
+STU0114,Physcs,39.0,50,-10,8.6,5,2026-12-09,7.4,45,,679,2026-11-01 09:15
+STU0068,english communication,32.0,50,60.3,11.9,2,2026-12-18,6.3,35,,407,2026-11-01 09:15
+STU0141,Physics,34.5,50,70.7,8.2,--,26-12-09,5.6,40,retake,841,2026-11-01 09:15
+STU0065,Physics,34.5,50,85.2,4.3,3,2026-12-09,7.3,40,verified,385,Nov 2 2026
+STU0003,english communication,38,50,62.3,5.9,easy,2026-12-18,5.5,50,,17,
+STU0179	,Engineering Drawing,43.5,50,69.6,8h 11m,3,16-Dec-2026,7.2,50,retake,1072,Nov 2 2026
+STU0081,Engineering Drawing,32.0,50,95%,5.7,3,26-12-16,7.0,35,,484,2026-11-03T10:45:00
+STU0120,Mathematics,27.5,50.0,-10,6.3,4,2026-12-07,6.6,40,late entry,714,Nov 2 2026
+STU0096,Chemistry,23.5,50,62.8,9.1,4,2026-12-11,6.2,25,verified,572,Nov 2 2026
+STU0048,Physics,33.0,50,71%,9.1,5,09/12/2026,8.4,45,late entry,283,01/11/2026 14:02
+STU0191,English Communication,?,50,100.0,8.2,3,2026-12-18,8.2,50,check later,1145,yesterday
+STU0162,chem,35.0,50,80.3,7.6,3,2026/12/11,7.4,40,??,968,
+STU0020,Physics,31.5,50,75.6,8.8,4,09.12.2026,5.1,40,verified,115,yesterday
+STU0081,Engineering Drawing,32.0,50,95%,5.7,3,26-12-16,7.0,35,,484,2026-11-03T10:45:00
+STU0055,Chemistery,38.5,50,72.9,7.9,3,11.12.2026,7.5,45,late entry,326,
+STU0167,Programming,35.5,50,-,1.0,1,2026-12-14,7.5,45,,999,01/11/2026 14:02
+STU0082,Chemistry,28.5/50,50,59.0,7.2,4,12-11-2026,6.4,35,check later,488,yesterday
+STU0149,programming,23.0,50,83.4,6.5,2,2026-12-14,5.6,35,??,891,01/11/2026 14:02
+STU0170,PROGRAMMING,40.5,50,79.4,3.1,2,2026-12-14,4.6,50,??,1017,Nov 2 2026
+STU0027,Physics,29.0,50,90.3,5.8,,2026-12-09,7.1,35,??,157,2026-11-01 09:15
+STU0151	,PROGRAMMING,41.0,50,0.669,8.8,3,2026/12/14,5.8,50,,903,yesterday
+STU0080,MATHEMATICS,33.0,50,null,6.3,4,2026-12-07,6.1,45%,verified,474,Nov 2 2026
+STU0024	,Chemistry,,50,87.5,11.0,3,2026-12-11,7.7h,45,needs review,140,01/11/2026 14:02
+STU0163,Engineering Drawing,32.0  ,50,89.2,7.5,2,,7.6,40,??,976,yesterday
+STU0189,CHEMISTRY,42.5,50,62.9,9.6,Level 5,2026-12-11,6.9,45.0,check later,1130,01/11/2026 14:02
+STU0088,Engineering Drawing,33.0,50,57.8,4.6,2,2026-12-16,4.3,40,late entry,526,2026-11-01 09:15
+STU0073,programming,36.0,50,97.4,4.9hours,2,2025-12-07,7.6,45,,435,2026-11-03T10:45:00
+STU0075,CHEMISTRY,33.5,50,100.0,5.4,3,2026-12-11,6.8,40,,446,2026-11-03T10:45:00
+ STU0124 ,Physics,31.5,50,83.9,8.7,3,"Dec 09, 2026",6.3,35,??,739,01/11/2026 14:02
+STU0038,Chemistry,40.0,50,72.6,9.5,4,11/12/2026,8.5,50,late entry,224,
+STU0096,Physics,23.0,?,0,8.5h,3,2026-12-09,6.2,30,see note,571,2026-11-01 09:15
+S0072,ENGINEERING DRAWING,26.0,50,100%,3.9,1,2026-12-16,7.9,35,see note,430,01/11/2026 14:02
+STU0048,programming,38.0,50, ,,MEDIUM,2026-12-14,8.4,40,check later,285,
+STU0067,Programing,75,50,72.4 %,7.8,2,2026-12-14,7.3,35,see note,399,2026-11-03T10:45:00
+STU0146,MATHEMATICS,43.0,50,77.1,9.0,4,2026-12-07,null,50,check later,870,Nov 2 2026
+STU0186,Chemistry,37.0,50,76.4,7.2,2,2026-12-11,4.8,45,??,1112,2026-11-03T10:45:00
+STU0180,PHYSICS,30.5,50,82.9,4.5,4,NA,7.5,40,check later,1075,Nov 2 2026
+stu0004,English Communication,29.0 marks,50,76.4,7.7,1,2026-12-18,5.9,35,,23,01/11/2026 14:02
+STU0164,MATHEMATICS,37.5,50,79.3,8.0,3,not announced,6.6,45,verified,978,yesterday
+STU0055,Physics,35.0,50,63.1,,3,2026-12-09,7.0,45,check later,325,Nov 2 2026
+STU0122,Programming,37.5,50,100.0,4.3,4 ,14/12/2026,8.1,40,,729,yesterday
+STU0139,CHEMISTRY,,50,90.9,5.8,3,2026-12-11,5.7,50.0,see note,830,2026-11-01 09:15
+STU0049,Physics,14.5,50,83%,3.9 hrs,4,None,6.9,20,needs review,289,
+STU0125,Chemistry,40.0,50,72.0,13.4,3,11-Dec-2026,6.5,50,needs review,746,2026-11-03T10:45:00
+STU0078,Mathematics,25.0,50,91.5,4.1,5,2026-12-07,6.1,35,verified,462,
+STU-0079,Programing,28.0,50,69%,6.8,3,2026-12-14,,35,,471,2026-11-01 09:15
+STU0076,Chemistry,33.5,50,63.0,7.5,4,December 11 2026,8.8,40,needs review,452,
+STU0109,PHYSICS,24.5,50,55.3,9.8,3,2026-12-09,5.7,35,late entry,649,2026-11-01 09:15
+STU0185,Mathematics,28.5,50,69%,8.8,4,07-Dec-2026,5.5,35,retake,1104,
+STU0067,Mathematics,28.5,50 marks,73.4,7.1,3,2026-12-07,7.3,40,needs review,396,yesterday
+STU0112,Chemistry,43.5,50,80.9 %,4.7,3,2026-12-11,7.7,50,see note,668,2026-11-01 09:15
+Stu0086,Programming,34.0,50,73.2,7.4,4,2026-12-14,6.9,45%,see note,513,2026-11-03T10:45:00
+STU0039,Programming,29.0,50,64.3,4.4,3,December 14 2026,6.4,35,,231,
+STU0025,Programing,41.0,50,80.4,4.3,-,2026-12-14,7.0,50/50,see note,147,2026-11-03T10:45:00
+STU0028,English Communication,null,50,40.7,7.5,,2026/12/18, ,35/50,retake,167,
+STU0153,Programming,41.0,50,64.5,8.2,3,2026-12-14,7.5,45%,retake,915,yesterday
+STU0012	,Engineering Drawing,41.0,50,73.0,7.8,2,2026-12-16,9.0,50,retake,70,
+STU0118,Physics,23.5,50,84.6,6.8,5,2026-12-09,NULL,30,retake,703,01/11/2026 14:02
+STU0084,maths,37.0,50,57.4,9.5,Level 4,2026-12-07,7.6,40,see note,498,2026-11-03T10:45:00
+STU0029,Programming,22.5,50,67.6,7.1,3,2026-12-14,7.3,35,,171,yesterday
+stu0062,Physcs,21.0,50,68.2,5.3,4,2026-12-09,6.9,30,,367,
+Stu0029,Mathematics,30.5,50,65.0,9.5,MEDIUM,2026-12-07,7.3,40,??,168,Nov 2 2026
+STU0045,Mathematics,23.5,50,64.5,4.6,5,2026-12-07,7.1,30,,264,2026-11-03T10:45:00
+STU0133,Programming,39.0,50,73.9,6.4,MEDIUM,,6.8 hours,45,,795,2026-11-03T10:45:00
+STU0046,Chemistry,21.0,50,92.6,7.6,None,2026-12-11,NA,25,late entry,272,Nov 2 2026
+STU0152,PHYSICS,N/A,100,66.3,564 min,5,2026-12-09,7.0,35.0,duplicate?,907,01/11/2026 14:02
+STU0131,Physics,56%,50,68.4,10.3,5,2026-12-09,6.0,35,retake,781,
+STU0129,Mathematics,30.5,50,74.7,6.0,2,2026/12/07,7.2h,35,,768,Nov 2 2026
+Stu0155,Physics,35.5,50,72.8,5.7,4,12-09-2026,8.2,40,check later,925,2026-11-01 09:15
+STU0008,Mathematics,34.0,50,61.0,3.2,4,2026-12-07,6.3,40,,42,
+STU0144,Mathematics,33.5,50,94.5,8.0,4,2026-12-07,6.1,40,check later,858,01/11/2026 14:02
+STU0169,Programming,35.5  ,50,74.3,540 min,5,2026-12-14,7.0,40,late entry,1011,yesterday
+,,,,,,,,,,,,
+STU0125,Engineering Drawing,44.5,50,90.2,7.0,3,2026-12-16,6.2,50,,748,yesterday
+STU0023,Mathematics,42.0,50,94.5,5.3,4,12-07-2026,5.9,50,,132,2026-11-01 09:15
+STU0075,Programming,35.0,50,95.4,6.3,3,12-14-2026,6.8,40,,447,
+STU0007,Chemistry,32.5,50,66.7,4.2,4,12-11-2026,6.8,40,??,38,
+STU0052,Mathematics,31.5,50,83.4,4.4,3,2026-12-07,6.3,35,late entry,306,2026-11-01 09:15
+STU0115,Programming,30.0,50,64.7,7.3,3,2026-12-14,6.8h,500,verified,687,Nov 2 2026
+STU0110,Chemistry,26.0,50,66.6,5.6,3,2026/12/11,5.9,30,verified,656,01/11/2026 14:02
+STU0092	,Chemistry,31.0,50,99.8,8.2,3,2026-12-11,NULL,40,,548,2026-11-01 09:15
+STU0046,Mathematics,15.5 marks,50,97.2,,5.0,2026-12-07,7.4,25,,270,
+STU0054,Mathematics,30.5,50,0.792,5.2,4,12-07-2026,6.5,40,needs review,318,
+STU0189,Mathematics,abs,50,78.2,4.1,4,2026-12-07,6.9,50,,1128,01/11/2026 14:02
+STU0028,ENGINEERING DRAWING,33.0,50,64.6,8.3,2,2026-12-16,8.2,40,late entry,166,Nov 2 2026
+STU0100,Programming,36.0,50,83.7,5.7,2,2026-12-14,4.5,45,see note,597,Nov 2 2026
+STU0012,English Communication,39.5,50,81.6,7.0,3,"Dec 18, 2026",9.0,45,verified,71,yesterday
+STU0114,English Communication,42.5 marks,50,71.0,4.6,3,None,7.4,45,needs review,683,Nov 2 2026
+STU0131,English Communication,28.5,fifty,78.1,4.1,2,2026-12-18,6.0,35,,785,Nov 2 2026
+STU0155,Engineering Drawing,44.5,50,100.0,4.0,3 ,2026-12-16,8.0,NA,needs review,928,Nov 2 2026
+STU0173,programming,30.0,--,79.4,8.6,3,14/12/2026,7.0,40,,1035,2026-11-01 09:15
+STU0090,Programming,22.0,50,92.8,4.3,2,14/12/2026,8.3,25,late entry,537,2026-11-03T10:45:00
+STU0085,Mathematics,40.0,50 marks,72.7,10.0,5,12-07-2026,7.0,45,retake,504,Nov 2 2026
+STU0131,PROGRAMMING,33.0,50,0.821,5.4,3,2026/12/14,6.0,40,,783,
+STU0129,Programming,30.5,50,55.8,5.1,3.0,14.12.2026,7.2,40,late entry,771,2026-11-03T10:45:00
+STU0053,Engineering Drawing,29.5,50,1.0,6.9,1,2026/12/16,5.9,40,needs review,316,2026-11-03T10:45:00
+STU0121,English Communication ,39.0,50,62.4,6.2,2,2026-12-18,8.2 hours,45,,725,2026-11-01 09:15
+STU0001,Engineering Drawing,38.5,50,0,4.1,2,2026-12-16,7.6 hrs,45/50,,4,01/11/2026 14:02
+STU0181,Chemistry,30.0,50,84.6,6.4,2,2026-12-11,6.1,40,needs review,1082,
+STU0111,Mathematics,22.0,50,NULL,7.1,5,07.12.2026,6.4,35/50,see note,660,2026-11-03T10:45:00
+STU0184,ENGLISH COMMUNICATION,36.5  ,50,78.7,7.7,2,2026-12-18,6.6 hours,45,retake,1103,Nov 2 2026
+STU0101,null,null,50,70.7,9.0,hard,2026-12-11,7.4,25,check later,602,01/11/2026 14:02
+STU0075,Physcs,39.5,50,81.8,NULL,4,2026-12-09,6.8,45,,445,yesterday
+STU0139,Physics,35.5,50,95%,3.1,3,2026-12-09,5.7,40,,829,2026-11-03T10:45:00
+STU0117,Physics,42.0,50,81.0,10.1,4,2026-12-09,6.9,45,??,697,yesterday
+Stu0063,English Communication,44.5,50,--,5h 0m,2,18.12.2026,6.0,50,retake,377,2026-11-03T10:45:00
+N/A,Programming,--,50,87.2,8.6,3,-,5.4,30,see note,885,
+STU0189,engineering drawing,44.0,None,64.5,7.3,2,2026-12-16,6.9,50,needs review,1132,2026-11-03T10:45:00
+STU0016,ENGINEERING DRAWING,33.5/50,50,85.5,1.5,2,2026-12-16,6.5,40,retake,94,
+STU0016,English Communication,32.5,50,69.2%,2.1hours,1,18-Dec-2026,6.5,40,check later,95,
+STU0114,English Communication,42.5 marks,50,71.0,4.6,3,None,7.4,45,duplicate?,683,Nov 2 2026
+STU0070,Physics,68%,50,,4.2,Hard,2026-12-09,6.6,40,,415,2026-11-01 09:15
+STU0127,Engineering Drawing,30.5,50,83.9,6.7,2,2026-12-16,6.6,40,check later,760,2026-11-01 09:15
+STU0083,Mathematics,,50,77.0,7.1,4,2026-12-07,6.9,50,verified,492,01/11/2026 14:02
+STU0106,English Communication,44.0,50,0.845,9h 30m,3,18/12/2026,8.5,50,,635,01/11/2026 14:02
+ ,Programming,29.5,50,73.5,8.0,3,"Dec 14, 2026",6.4,40,needs review,663,2026-11-03T10:45:00
+ STU0010 ,Engineering Drawing,28.0,50,90.3,8.0,2,2026-12-16,8.1,40,,58,01/11/2026 14:02
+STU0161,Engineering Drawing,34.5,50,79.6,6.1,3,2026-12-16,6.1,45,??,964,Nov 2 2026
+STU0167,CHEMISTRY,45.0,50,100.0,1.3,3,11.12.2026,7.5,50/50,verified,998,yesterday
+STU0191,Programming,46.0,50,83.5,8.4,3,26-12-14,8.2,50,,1143,Nov 2 2026
+STU0005,Mathematics,37.0,50,85.1,7.2,4,07.12.2026,8.8,45,check later,24,Nov 2 2026
+ STU0157 ,Mathematics,47.0,50,71.7,13.7,4,07.12.2026,7.3,,,936,yesterday
+---,,,,,,,,,,,,
+STU0061,physics,29.5,50,78.7,8.0,4,26-12-09,7.7,high,needs review,361,Nov 2 2026
+STU0171	,Chemistry,thirty five,50,90.5,9.9,3,2026-12-11,6.9,40,??,1022,2026-11-03T10:45:00
+ STU0041 ,Engineering Drawing,31.5,50,0.769,5.6,2,2026-12-16,6.4,35,,244,Nov 2 2026
+STU0005,Physics,41.5,50,99.0,7h 42m,4,09-Dec-2026,--,50%,see note,25,yesterday
+STU0145,Chemistry,35.5,50,81.5,6.5,2,2026-12-11,6.8,40,,866,
+STU0199,English Communication ,49.0,50,72.3,6.5,2.0,2026-12-18,6.4,50,see note,1193,2026-11-01 09:15
+STU0038,Mathematics,36.0,50,80.7,8.1,10,2026-12-07,8.5,45,retake,222,01/11/2026 14:02
+STU0111,Engineering Drawing,24.5,50,0.779,4.4hours,2 ,16.12.2026,6.4,30,retake,664,
+STU0018,Programming,34.0,50,57.6,7.6,3,2026-12-14,7.2,40,retake,105,
+STU0191,Chemistry,42.5,50,88.4,7.5,3,2026-12-11,8.2,50,needs review,1142,yesterday
+STU0022,Engineering Drawing,31.5,50,48.6,4.1,3,December 16 2026,5.6,40,,130,2026-11-01 09:15
+STU0026,Programming,37.0,50,91.0,6.2,3,2026-12-14,6.3 hrs,50pts,,153,
+STU0185,Physics,27.0,50,63.7,9.6,5,"Dec 09, 2026",5.5 hours,30,??,1105,2026-11-03T10:45:00
+Stu0175,Programming,41.5,50,85.5,9.4h,3,2026-12-14,7.2,45,see note,1047,01/11/2026 14:02
+STU0073,Math ,28.0,50,92.0,6.1,4,12-07-2026,7.6,35,needs review,432,yesterday
+STU0160,Chemistry,41.0,50,60.6,384 min,3,"Dec 11, 2026",5.2,50,,956,yesterday
+STU0093,Engineering Drawing,44.0,50,81.6,8.5,2,2026-12-16,7.3,50,??,556,2026-11-01 09:15
+STU0098,ENGINEERING DRAWING,--,50,69.5,5.8h,3,2026-12-16,7.4 hrs,40,see note,586,2026-11-03T10:45:00
+STU0197,Programming,absent,50,55.1,10.8,5,December 14 2026,5.8,40,duplicate?,1179,01/11/2026 14:02
+STU0013,Programming,36.0,50,55.5,7.0,4 ,December 14 2026,5.5,45,check later,75,Nov 2 2026
+STU0007,Mathematics,37.5,100,69.2,2.5,MEDIUM,2026-12-07,6.8,45,,36,yesterday
+STU0188,Programming,23,50,85.6,10.4,4,12-14-2026,6.8,30,late entry,1125,yesterday
+STU0091,Mathematics,34.0,50,73.4,5.7,4,2026-12-07,5.7,45,needs review,540,2026-11-03T10:45:00
+STU0066,NA,43.0,50,87.7,4.2,,18-Dec-2026,7.6,500,,395,Nov 2 2026
+STU0177,Mathematics,48.0,50,82.2,11.5,4,12-07-2026,6.0,50,,1056,Nov 2 2026
+STU0069,Physics,44.0,50,89.4,8.4,4,26-12-09,8.2,50,,409,01/11/2026 14:02
+STU0160,Physics,34.5,50,76.8,5.4,5,2026-12-09,5.2,45,,955,2026-11-03T10:45:00
+STU0102,English Communication,40.5,50,62.4,7.6hours,2,31/02/2026,7.6,None,??,611,
+STU0034,Physcs,33.5,50,75.8,4.9,2,12-09-2026,6.1,35,verified,199,yesterday
+STU0158,English Communication,31.5,50,90.5,6.4,2,2026-12-18,6.8,40,,947,2026-11-01 09:15
+STU0023,CHEMISTRY,37.5,50,0,8.0,4,2026-12-11,5.9,45,check later,134,yesterday
+STU0117,Programming,43.5,50,89.5,5.1,4,12-14-2026,6.9,50,see note,699,yesterday
+STU0044,Physcs,40.0,50,92.5,5.9,3,2026-12-09,5.9,50,,259,
+STU0056,Engineering Drawing,29.5,50,72.5,2.7hours,1,2026-12-16,7.7,35,retake,334,2026-11-03T10:45:00
+STU0112,Mathematics,41.0,100,90.4,6.1,4,07/12/2026,7.7,45,,666,2026-11-01 09:15
+STU0001,Programming,39.5,50,84.6,5.0,3,26-12-14,7.6,50,,3,2026-11-03T10:45:00
+STU0100,Physics  ,27.0,50,80.4,7.5,4,09-Dec-2026,4.5,35,check later,595,yesterday
+Stu0036,mathematics,46.5,50,100.0,8.3,4,2026-12-07,8.3,50,late entry,210,yesterday
+STU0033,ENGINEERING DRAWING, ,50,69.2 %,4.1,3,December 16 2026,7.5,25.0,late entry,196,yesterday
+Stu0123,Programming,61%,N/A,73.5%,7.9,4,2026-12-14,9.0,35,,735,01/11/2026 14:02
+STU0092	,Chemistry,31.0,50,99.8,8.2,3,2026-12-11,NULL,40,,548,2026-11-01 09:15
+STU0109,Programming,23.0,50,54.2,6.6,2 ,December 14 2026,null,30,retake,651,2026-11-01 09:15
+STU0005,Chemistry,35.5  ,50,88.3,6.5,3,2026-12-11,8.8,40,check later,26,2026-11-01 09:15
+STU0055,Mathematics,34.0,50,73.3,6.8,5,12-07-2026,7.0,40,,324,2026-11-01 09:15
+STU0078,physics,26.0,50,76.1,5.5,5,2026-12-09,,35,,463,2026-11-01 09:15
+STU0094,mathematics,31.5,50,69.3,10.7,3,2026-12-07,6.5,40,??,558,01/11/2026 14:02
+STU0198,English Communication,30.5,50,82.0,5.4,1,2026-12-18,6.4h,40,retake,1187,01/11/2026 14:02
+STU0056,English Communication,29.5,50,66.9,5.9,2,2026-12-18,7.7,35,see note,335,2026-11-03T10:45:00
+STU0011,Physics,40.5, 50,83.3,6.0,3,2026-12-09,15,50,,61,yesterday
+STU0182,Chemistery,21.5,50,78.4,-,0,2026-12-11,6.8,30,late entry,1088,Nov 2 2026
+STU0181,Engineering Drawing,34.5,50,64.2,N/A,2,2026-12-16,6.1,45,see note,1084,2026-11-03T10:45:00
+STU0140,Physcs,29.0,50,73.8,6.5,2,2026-12-09,N/A,35,retake,835,yesterday
+STU0057,Programming,34.5,50,0.763,4.3,4,2026-12-14,7.4,40,??,339,01/11/2026 14:02
+STU0090,Chemistry,22.0,50,87.4,6.6,3,2026-12-11,8.3,25,check later,536,
+STU0126,Mathematics,24.0,50,85.7,6.2,4,2026-12-07,6.0,30,check later,750,2026-11-03T10:45:00
+STU0065,English Communication,37.0,50,83.0,7.9,2,December 18 2026,7.3,45,verified,389,01/11/2026 14:02
+STU0186,Physics,37.5,50,89.3,5.3,5,2026-12-09,4.1,50,verified,1111,2026-11-01 09:15
+STU0118,Mathematics,24.5,50,84.4,4.7,5,2026-12-07,7.0,35.0,check later,702,
+STU0142,Chemistry,35.0,50,65.3,8.0,--,"Dec 11, 2026",8.0,45,verified,848,2026-11-03T10:45:00
+STU0194,Mathematics,28.5 marks,50,86.5,5.0,5,2026-12-07,7.4,40,retake,1158,yesterday
+STU0086,mathematics,34.0,50.0,79.0,6.9,4,2026-12-07,6.9,40,??,510,Nov 2 2026
+STU0042,Programming,32.5,50,100.0,6.3 hrs,5,2026-12-14,4.9h,35,late entry,249,2026-11-03T10:45:00
+STU0092,Mathmatics,36.5,50,86.9,8.4,3,2026-12-07,7.8,45%,,546,2026-11-03T10:45:00
+STU0163,Programming,N/A,50,79.2,3.7,3,2026-12-14,7.6h,35,,975,yesterday
+STU0002,Chemistry,39.0,50,73.6,9.2,4,2026-12-11,6.7,50,,8,01/11/2026 14:02
+STU0134,programming,29.0,50,88.0%,5.3h,4,2026-12-14,7.8,30,see note,801,01/11/2026 14:02
+STU0112,Programming,48.5,50,87.8%,6.4,2,None,7.7,50,see note,669,Nov 2 2026
+S0183,,19.0,50,None,7.5,3 ,18-Dec-2026,8.9,25,,1097,
+STU0051,Mathematics,25.0,50,76.7,None,4,NULL,5.7,30,see note,300,01/11/2026 14:02
+STU0121,Engineering Drawing ,37.0,50,73.6,372 min,1.0,2026-12-16,8.2,45,,724,2026-11-03T10:45:00
+STU0151,Physics  ,41.0,NULL,70.9%,10.1,4,2026-12-09,,45,,901,
+STU0022,Physics,35.5,50,57.9,None,2,--,5.6,40,,127,01/11/2026 14:02
+STU0013,Chemistry,31.5,50,54.8,2.3,2,December 11 2026,5.5,35,needs review,74,Nov 2 2026
+STU0104,Physics,36.5,50,76.4,11.4hours,4,2026-12-09,7.9,45,,619,yesterday
+STU0104,Chemistry,33.0,50,67.9,8.5,2,2026-12-11,7.9,45,verified,620,01/11/2026 14:02
+STU0159,programming,18.5,50,76.4,7.3,4,2026-12-14,6.4,30,late entry,951,yesterday
+STU0010,PROGRAMMING,26.0,50,74.8,8.0hours,4,2026-12-14,8.1,40,verified,57,2026-11-03T10:45:00
+STU0181,Mathematics,29.5,50,75.6,8.0hours,5,December 07 2026,6.1,35,,1080,01/11/2026 14:02
+STU0015,Engineering Drawing,33.5,50,86.3,9.2,1,16.12.2026,5.7,40,verified,88,
+STU-0187,engineering drawing,34.0,50,64.1,9.2,,2026-12-16,8.9,35,,1120,Nov 2 2026
+STU0050,Programming,37.5,50,84.5,5.4,4,14-Dec-2026,7.0,40pts,??,297,2026-11-03T10:45:00
+STU0179,chem,48.5,50,0.732,,3,2026-12-11,7.2,50,??,1070,yesterday
+STU0037,Physics,37.0,50,85.8,6.2,,2026-12-09,5.9,45,see note,217,
+STU0110,Prog.,27.0,50,72.9,7.1,3,2026-12-14, ,35,,657,
+STU0083,Physics,43.5,50,87.8,6.6,3,12-09-2026,6.9,50,,493,Nov 2 2026
+STU0131,Chemistry,30.5,50,NA,8.8,4,2026-12-11,6.0,40/50,,782,01/11/2026 14:02
+STU0123,engineering drawing,35.0, 50,85.0,5.0,1,2026-12-16,0,45,retake,736,yesterday
+stu0058,Chemistry,56%,50,60%,5.4,Medium,2026-12-11,6.1,35,see note,344,2026-11-03T10:45:00
+,,,,,,,,,,,,
+STU0147	,English Communication,37.5,50,66.7%,9.2,2.0,18-Dec-2026,7.9 hours,40,,881,2026-11-01 09:15
+STU0196,engineering drawing,31.0,50,45.6,6.5,2,2026/12/16,6.9,40,check later,1174,01/11/2026 14:02
+STU0070,Mathematics,38.5,50,77.6,7.7,5,2026-12-07,6.6,None,needs review,414,
+STU0126,Chemistry,30.5/50,50,90.0,3.2hours,4,2026-12-11,6.0,40,??,752,yesterday
+STU0011,English Communication,42.5,50,80.8,4.5,2,2026-12-18,7.1,50,check later,65,
+STU0089,CHEMISTRY,40.5,50,87.0,9.0,3,2026-12-11,8.4,50,??,530,01/11/2026 14:02
+STU0190,ENGLISH COMMUNICATION,41.0,50,71.1,7.9,2,2026-12-18,6.6,50,check later,1139,01/11/2026 14:02
+STU0103,Physics,25.5,100,92.6,4.4,3,2026-12-09,5.4 hours,35,late entry,613,2026-11-03T10:45:00
+STU0147,Engineering Drawing,29.0 marks,50,68.6,4.0,3,2026-12-16,7.9,40,,880,01/11/2026 14:02
+STU0069,CHEMISTRY,46.5,50,65.0,6.8,1,2026/12/11,8.2,50,??,410,
+STU0107,English Communication,33.5  ,50,98.3,2.1,2 ,2026-12-18,8.2,45,see note,641,2026-11-03T10:45:00
+S0196,Chemistry,31.0,50,,9.3,2,26-12-11,6.2,40,,1172,2026-11-01 09:15
+STU0045,Chemistry,29.0,50,69.0,6.5,5,"Dec 11, 2026",?,35,,266,2026-11-01 09:15
+STU0002,Mathematics,41.0,50,76.8,9.5,3,2026/12/07,6.7,-10,verified,6,2026-11-03T10:45:00
+STU0113	,english communication,33.5,50,98.0,3.0,1,2026-12-18,6.6,40,retake,677,01/11/2026 14:02
+STU0021,CHEMISTRY,27.5,50,87.0,5.6,easy,12-11-2026,7.4,30,,122,01/11/2026 14:02
+STU0118,Chemistry,22.0,50,78.0,2.6,2,2026-12-11,7.0,25,,704,01/11/2026 14:02
+STU0024,Math ,30.0,50,78.7,10.2,4 ,2026/12/07,7.7,35,late entry,138,01/11/2026 14:02
+STU0028	,physics,,50,64.1,8.5,Level 5,09-Dec-2026,8.2,30,,163,2026-11-01 09:15
+STU0176,Physics,35.0,50,69.4,3.6,4,2026-12-09,6.6,40,,1051,2026-11-01 09:15
+STU0184,Engineering Drawing,27.5,50,85.6,6.4,2,2026-12-16,6.6,30,check later,1102,2026-11-03T10:45:00
+STU0175,Chemistry,38.5,50,88.6,10.2,Level 4,26-12-11,7.2,,check later,1046,2026-11-01 09:15
+STU0188,English Communication,30.0,50,71.0,7.2,3,2026-12-18,6.8,35 ,,1127,2026-11-01 09:15
+ STU0008 ,Physics,30.0,50,91.6,8.0,3,2026-12-09,6.3,40,,43,yesterday
+STU0173	,english communication,24.0,50,80.3,8.9,3,26-12-18,7 hours,30,,1037,
+STU0139,Mathematics,abs,50,91.8,306 min,4,December 07 2026,5.7,40,verified,828,01/11/2026 14:02
+STU0084,Chemistry,39.0,50,57.6,-,4,2026/12/11,7.3,45,late entry,500,2026-11-01 09:15
+STU0054,Physics,28.5,50,62.1,5.7,5,09/12/2026,25,35,verified,319,
+STU0147,Chemistry,33.5,50,67.2,7.3,3,N/A,7.9,40,late entry,878,yesterday
+STU0161,Physics,32.0,50,76.3 %,5.7,5 ,12-09-2026,6.1,45,verified,961,
+STU0103,English Communication,25.0,50,82.9,2.2,1,2026-12-18,5.4,35,see note,617,
+STU0050,Mathematics,33.5,50,79.4,,Level 4,2026-12-07,7.0,45,verified,294,2026-11-01 09:15
+STU0039,Engineering Drawing,36.0,50,57.3,8.3,2,16/12/2026,6.4h,null,check later,232,
+STU0153,Engineering Drawing, ,50,59.1,11.5,4,2026-12-16,7.5,35,??,916,2026-11-01 09:15
+STU0112,Physics,40.5,50,90.7,6.1,3,2026-12-09,7.7,50,see note,667,
+STU0093,English Communication,36.0,fifty,85.4,5.9,2,26-12-18,7.3,45,,557,yesterday
+STU0004,Physics,29.0,50,67.8,7.6,4,26-12-09,5.9,40,needs review,19,01/11/2026 14:02
+STU0076,Mathmatics,abs,100,None,4.4,4,2026-12-07,8.8,N/A,check later,450,yesterday
+STU0088,Mathematics,36.0,100,59.5,7.2,3,2026-12-07,4.3,45,,522,2026-11-01 09:15
+STU0174,Programming,31.5,50,63.1,7.4,3,"Dec 14, 2026",6.2,40,??,1041,Nov 2 2026
+stu0140,Engineering Drawing ,34.0,50,80.5,6.7,2,26-12-16,5.9,45,,838,2026-11-01 09:15
+STU0132,Chemistry,32.5,50.0,0.936,8.0,3,2026-12-11,6.8,40,,788,2026-11-01 09:15
+STU0186,Mathematics,32.5,50,84.5,8.4,5,2026-12-07,4.8,45,retake,1110,01/11/2026 14:02
+STU0085,Engineering Drawing ,41.5,50,68.0,5h 42m,1,"Dec 16, 2026",7.0,45,,508,
+STU0175,Engineering Drawing,39.5,50,100.0,11.3,2,null,7.2,45,retake,1048,yesterday
+STU0167,Physics,43.5,fifty,100.0,252 min,?,2026-12-09,7.5,50.0,late entry,997,yesterday
+STU0023,english communication,34.5,50,80.5,5.6,1,2026-12-18,5.9,40,,137,2026-11-03T10:45:00
+STU0156,Programming,35.0,50,999,3.9,3 ,14.12.2026,7.3,40.0,,933,2026-11-03T10:45:00
+STU0185,chem,34.0,50,75%,6.1,3,December 11 2026,5.5,40,,1106,01/11/2026 14:02
+STU0136,Programming,27.0,50,85.1,5.7,4,2026-12-14,6.3,30,,813,yesterday
+STU0031,English Communication,57%,50,86.2,5.7,2,2026-12-18,7.1,40/50,see note,185,Nov 2 2026
+STU0175,Physics,40.5,50,78.5,10.0,Level 4,2026-12-09,7.2,50%,check later,1045,yesterday
+STU0095,ENGINEERING DRAWING,22.0,50,84.1%,5.0,1,16.12.2026,6.0,30,verified,568,Nov 2 2026
+S0054,Programing,36.0 marks,50,81.3%,4.3,3,12-14-2026,6.5,45,needs review,321,2026-11-03T10:45:00
+STU0104,English Communication,34.0,50,80.4,9.5 hrs,1,2026-12-18,7.9,45,verified,623,2026-11-03T10:45:00
+STU0040,ENGLISH COMMUNICATION,36.5,50,67.4,10.5,2,2026-12-18,,50,see note,239,
+STU0151,Chemistry,43.5,50,NULL,6.6,2,2026-12-11,5.8,50,needs review,902,Nov 2 2026
+STU0048,Physics,33.0,50,71%,9.1,5,09/12/2026,8.4,45,late entry,283,01/11/2026 14:02
+STU0100,Mathematics,33.5,50,73.2,7.4,3,26-12-07,4.5,40,late entry,594,2026-11-01 09:15
+STU-0055,Programming,35.5,50,72.6,8.2,4,12-14-2026,7.0,45,see note,327,2026-11-01 09:15
+STU0053,English Communication,27.0,50,99.0,420 min,2,2026-12-18,5.9,30,see note,317,2026-11-03T10:45:00
+STU0154,Engineering Drawing,36.5,50,65.7,7.3,2 ,2026-12-16,6.9,40,verified,922,2026-11-03T10:45:00
+STU0144,Engineering Drawing,37.0  ,50.0,70.8,6.8,1,2026-12-16,6.1,40 ,retake,862,2026-11-01 09:15
+STU0106,Programming,42.5,50,0.893,8.8,Level 3,2026-12-14,8.5,50,needs review,633,2026-11-03T10:45:00
+STU0135,Mathematics,30.0,50,67.0,8.8,5,2026-12-07,6.9,35,check later,804,01/11/2026 14:02
+STU0147,Physics  ,32.5,50,-,,2,2026-12-09,7.9,40 ,,877,
+STU0080,English Communication,29.0,50,64.6,8.8,2,2026-12-18,6.1,40,,479,
+STU0057,Chemistry,32.0,50,66.2,8.1,med,2026-12-11,7.4,35,,338,
+,,,,,,,,,,,,
+STU0117,chemistry ,45.0 marks,50,0.943,10.5,2,26-12-11,6.9,50,late entry,698,
+STU0025,Engineering Drawing,44.5,50,83.0,8.5,2,2026-12-16,-,50,see note,148,Nov 2 2026
+NULL,MATHEMATICS,28.0,50,NA,10.8,4,2026-12-07,8.9,30,retake,1116,Nov 2 2026
+null,english communication,25.5,50,65.8, ,2,18-Dec-2026,5.8,30,see note,1181,2026-11-03T10:45:00
+STU0141,Mathematics,37.0,50,0.712,9h 11m,3,2026-12-07,5.6,40,verified,840,Nov 2 2026
+STU0042,mathematics,25.5,50,100.0,7.8,4,2026-12-07,4.9,30,??,246,
+STU0061,English Communication,29.0,50,85.2 %,7.4,Easy,2026-12-18,7.7,35,needs review,365,2026-11-03T10:45:00
+STU0169,Chemistry,28.5,50,82.1,8.9,3,2026/12/11,7.1,40pts,needs review,1010,
+STU0034,Mathematics,35.5,50,90.0,7.0,4,31/02/2026,6.1,40,see note,198,yesterday
+STU0200,Physics,46.0,50,76.5,8h 30m,3,09-Dec-2026,7.1 hrs,50,??,1195,yesterday
+STU0111,English Communication,31.0,50,79.3,7.4,3,18/12/2026,6.4,40,retake,665,
+STU-0149,English Communication,,50,81.5,7.4,3,2026-12-18,N/A,40,??,893,Nov 2 2026
+STU0192,Programming,30.5  ,50,54.9,7.0h,4,14-Dec-2026,5.0,35,see note,1149,
+STU0081,Programming,?,50,83.8,6.4,3,2026-12-14,7.0,45,,483,01/11/2026 14:02
+STU-0027,Chemistry,28.5,50.0,81.7,5h 17m,2,"Dec 11, 2026",7.1,40,check later,158,2026-11-01 09:15
+STU0053,Programming,28.0,50,0.889,10.3,Level 4,2026-12-14,5.9 hours,35,check later,315,01/11/2026 14:02
+STU0043,Engineering Drawing,41.0/50,50,86.7,8.3,2,12-16-2026,7.5,50,,256,yesterday
+STU0140,English Communication,30.5,50,73%,7.7, ,2026-12-18,-,35,,839,yesterday
+---,,,,,,,,,,,,
+STU0065,Mathematics,75%,50,99.9,6.9,4,2026-12-07,7.3,40/50,needs review,384,01/11/2026 14:02
+STU0030,Programming,37.5,50,85.7,8.4,4,2026-12-14,5.4,45/50,late entry,177,
+STU0136,Chemistry,29.0,50,98.4,5.1,3,2026-12-11,6.3,35,retake,812,yesterday
+STU0053,chemistry ,22.0,50,82.9,8.8,4,2026-12-11,5.9,30,??,314,2026-11-01 09:15
+STU0060,Programming,48%,50,58.6,99,3,14/12/2026,--,35,check later,357,Nov 2 2026
+STU0050,Engineering Drawing,37.0,50,76.3,6.5,easy,26-12-16,7.0,50,,298,yesterday
+STU0076,english communication,abs,50,56.9,6.3,2 ,2026-12-18,?,30,check later,455,2026-11-01 09:15
+STU0197	,Chemistry,32.5,50,72.6,NULL,4,26-12-11,5.8,40,verified,1178,2026-11-01 09:15
+STU0088,ENGLISH COMMUNICATION,38.0,50,57.3,486 min,Easy,2026-12-18,4.3,45,,527,yesterday
+STU-0185,Engineering Drawing,N/A,50,73.0,4.5 hrs,1,2026-12-16,5.5,35,??,1108,
+STU0027,Programming,34.5,50,88.1,7.5,3,2026-12-14,7.1,45,??,159,
+STU0113,MATHEMATICS,26.5,50,0.772,2.9,5,December 07 2026,0,30,late entry,672,
+STU0061,Mathematics,21.0,50,77%,7.3,5,2026-12-07,7.7,30,see note,360,Nov 2 2026
+STU0034,Engineering Drawing,36.5,50,81.0,-3,Level 2,2026-12-16,6.1 hrs,40,needs review,202,2026-11-03T10:45:00
+STU0110,Engineering Drawing,26.0,50,82.3,6.6,3,2026-12-16,NULL,35,retake,658,Nov 2 2026
+STU0019,Engineering Drawing,35.5,50,64.1,3.8,2,2026-12-16,7.2,40,late entry,112,Nov 2 2026
+STU0183,Physics,26%,50,75%,6.8,3,2026-12-09,8.9,20,,1093,2026-11-01 09:15
+STU0052,Physics,31.0,50,0.8,6.6,5,2026-12-09,--,40,retake,307,2026-11-01 09:15
+S0186,English Communication,30.5,50,null,6.5,3,18.12.2026,4.8,35,??,1115,
+STU0071,Chemistery,31.0,50,81.7,6.5,2,December 11 2026,6.5,null,retake,422,yesterday
+STU0145,ENGINEERING DRAWING,27.0,50,82.7,9.7,Hard,2026-12-16,6.2,30,retake,868,01/11/2026 14:02
+STU0114,Chemistry,39.5,50,82.8,6.6,NULL,2026-12-11,7.4,50,check later,680,yesterday
+STU0077,Programming,49.5,50,0,5.7,1, ,7.8,50,,459,Nov 2 2026
+STU0169,English Communication,31.5,50,77.4,11.5,5,2026-12-18,7.0,40,,1013,01/11/2026 14:02
+STU0111,Chemistry,28.5,50,84.2,6.4,4,2026/12/11,6.4,40,needs review,662,yesterday
+STU0075,English Communication,39.5,50,92.1,5.9,2,2026-12-18,6.8,50,retake,449,Nov 2 2026
+STU0117,ENGINEERING DRAWING,49.0,50,100.0,0,1,December 16 2026,6.9,50,,700,2026-11-03T10:45:00
+STU0014,CHEMISTRY,38.0,50,0.707,9.0,3,2026-12-11,8.1,45,see note,80,yesterday
+STU0166,Chemistry,NA,50,79.3,8.0,3,2026-12-11,6.6,45,needs review,992,
+STU0036,English Communication,41.0,50,99.3,3.6,1,2026-12-18,8.3,50,check later,215,yesterday
+STU0160,Programming,82%,fifty,80.7,5.8,3,2026/12/14,5.2,45/50,verified,957,2026-11-03T10:45:00
+STU0006,Mathematics,37.0,50,76.7,3.9,3,2026-12-07,7.2,50,??,30,
+STU0041,Chemistry,31.5,50,89.0,4.0hours,3.0,2026-12-11,seven,40,needs review,242,2026-11-03T10:45:00
+STU0118,PROGRAMMING,20.5  ,50,84.3,3.7,4,2026-12-14,7.0,30,late entry,705,01/11/2026 14:02
+STU0035,English Communication,37.5,50,85.1,6.9,3,2026-12-18,NULL,45,,209,2026-11-01 09:15
+STU-0014,Programming,27.5,50,65.4,6.1,3,2026-12-14,8.1,35,late entry,81,2026-11-03T10:45:00
+STU0073,programming,36.0,50,97.4,4.9hours,2,2025-12-07,7.6,45,,435,2026-11-03T10:45:00
+ ,Engineering Drawing,34.0,50,100.0,4.5h,2,31/02/2026,5.5,NA,,778,Nov 2 2026
+STU0200,English Communication ,47.5,50,68.8,6.6,Level 2,2026-12-18,7.1,50,,1199,
+stu0195,Chemistry,27.0,50,86.1,5.1,3,2026-12-11,6.7,30,,1166,yesterday
+STU0092,English Communication,27.0,50,86.6,5.6,1,2026-12-18,7.8,None,see note,551,01/11/2026 14:02
+STU0091,Engineering Drawing,32.0,50,0.829,3.0 hrs,1,16.12.2026,5.7,40,needs review,544,yesterday
+STU0188,Engineering Drawing, ,50,77.8,8.3 hrs,3,2026-12-16,6.8,30,,1126,Nov 2 2026
+STU0068,Physics,29.5,50,76.1,11.3,4 ,2026-12-09,6.3,35,retake,403,2026-11-03T10:45:00
+STU0200,Programming,42.5,50,74.5,9.7,3,14-Dec-2026,7.1,45,duplicate?,1197,yesterday
+ STU0061 ,Chemistry,32.5,50,89.2,12.1,4.0,December 11 2026,7.7 hours,45,retake,362,01/11/2026 14:02
+STU0046,Physics,20.0,50,93.7,6.3,3,2026-12-09,7.4 hrs,25,check later,271,2026-11-03T10:45:00
+STU0078,Engineering Drawing,32.5,50,75.8,4.4,2.0,2026-12-16,-2,40,,466,yesterday
+STU0191,Mathematics,43.0,50,85.5,10.4,-1,"Dec 07, 2026",,45,needs review,1140,
+STU0160,Mathematics,45.0,50,74.8,N/A,4,2026-12-07,5.2,50pts,late entry,954,2026-11-03T10:45:00
+STU-0047,Physics,20.5,50,73.6,6.2,4,2026-12-09,5.9,25,,277,2026-11-03T10:45:00
+STU0190,Engineering Drawing,37.5,50,66.9,None,1,26-12-16,6.6,45,needs review,1138,2026-11-01 09:15
+STU0192,Mathematics,30.0,50,47.9,7.0,3,2026-12-07,5.8,35,verified,1146,2026-11-01 09:15
+STU0182,English Communication,51.5,50,80.7,6.6,2,2026-12-18,6.8,35,needs review,1091,
+STU0128,ENGLISH COMMUNICATION,22.0,50,66.2,6.3,2,2026-12-18,6.8,30,see note,767,yesterday
+STU0074,Engineering Drawing,-,50,90.3,6.9,3,--,7.0,50,,442,2026-11-03T10:45:00
+STU0050,English Communication,39.5,50,82.9,3.3,2,2026-12-18,7.0,45,needs review,299,yesterday
+STU0063,Programming,44.5,50, ,8.5,3,2026-12-14,6.0,50,needs review,375,Nov 2 2026
+STU0122,English Communication,42.0,50,100.0,1.7,easy,2026-12-18,8.1,45,check later,731,01/11/2026 14:02
+STU0176,Chemistry,31.0 marks,50,85.7,null,4,2026-12-11,6.6,35,retake,1052,2026-11-01 09:15
+STU0113,Physics,28.0,50,80.9,6h 42m,4 ,2026-12-09,6.6,35,verified,673,2026-11-01 09:15
+STU0079,Engineering Drawing,29.5,50,null,6.5,3,12-16-2026,,35,see note,472,2026-11-01 09:15
+STU0107,ENGINEERING DRAWING,-5,50,97.0,1.6,1.0,2026-12-16,8.2,45,,640,2026-11-03T10:45:00
+STU0094,English Communication,25,50,59%,8.7,3.0,2026-12-18,6.5,30,,563,
+STU0194,PHYSICS,27.5,50,86.8,2.4,2,December 09 2026,7.4h,35,see note,1159,01/11/2026 14:02
+STU0065,Engineering Drawing,36.0,50,81.3,5.1,2,2026-12-16,7.3,40,check later,388,yesterday
+STU0004,Engineering Drawing ,26.5,50,0.735,6.1,3,2026-12-16,5.9,35,,22,Nov 2 2026
+STU0195,Physics,24.0,50,-,,4 ,2026-12-09,6.7,30,,1165,yesterday
+STU0168,Mathmatics,33.5,50,85.1,8.2,5,2026-12-07,6.5,45,see note,1002,yesterday
+STU-0071,Programming,32.5,50,92.0,NA,3,2026-12-14,6.5,40,retake,423,2026-11-01 09:15
+STU0192,CHEMISTRY,30.5,50,62.4%,6.9,3,"Dec 11, 2026",5.8,40.0,needs review,1148,2026-11-01 09:15
+STU0137,Physics,29.0,50,68.0,9.0,5,2026-12-09,N/A,40,retake,817,yesterday
+STU0124,chem,32.5,50,99.0,null,3,11-Dec-2026,6.3,35,,740,
+STU0077,Physics,48.5,50,73.3,6.8,4,2026-12-09,7.8,50,duplicate?,457,yesterday
+STU0024,Engineering Drawing,33.0,50,999,9.3,3,2026-12-16,7.7,40,,142,yesterday
+STU0009,Chemistry,37.5,50,96.1,7.0,3,December 11 2026,8.9,40,see note,50,Nov 2 2026
+Stu0009,PHYSICS,37.5,50,100.0,4.6,4,2026-12-09,8.9,50,needs review,49,Nov 2 2026
+STU0155,Chemistery,40.5,50,77.7 %,174 min,2,2026-12-11,8.2,50,??,926,
+STU-0014,Programming,27.5,50,65.4,6.1,3,2026-12-14,8.1,35,late entry,81,2026-11-03T10:45:00
+STU0081,Chemistery,40.5,50,81.3,4.6,2,2026-12-11,,50,,482,
+S0054,Programing,36.0 marks,50,81.3%,4.3,3,12-14-2026,6.5,45,needs review,321,2026-11-03T10:45:00
+STU0178,Chemistry,40.5,50,82.6,8.8,4,2026-12-11,5.5,50,verified,1064,yesterday
+STU0132,Engineering Drawing,36.5,50,88.8,6.7,1,16.12.2026,6.8,45,,790,yesterday
+STU0058,english communication,31.0,50,71.4,4.8,-,N/A,6.1,40,check later,347,Nov 2 2026
+STU0012,maths,43.0,50,74.7,9.4,2,N/A,9.0,50,??,66,Nov 2 2026
+STU0189,Physics,41.0,50,-10,--,4,12-09-2026,6.9,45,,1129,
+STU0104,Mathematics,36.5,50,86.9,8.5,4,2026/12/07,7.9,45,??,618,yesterday
+STU0196,Physics,28.5, 50,62.7,,4,2026-12-09,6.2,40,retake,1171,01/11/2026 14:02
+STU0070,Programming,44.5,50,83.4,9.1,3,14/12/2026,6.6,50,,417,2026-11-03T10:45:00
+STU0136,English Communication,31.5,50,80.2,3.5,Easy,2026-12-18,6.3,40,needs review,815,2026-11-01 09:15
+STU0011,Engineering Drawing,36.5,50,91.1,2.4,1,2026/12/16,--,50,,64,01/11/2026 14:02
+STU0024,Physics,36.0,50,83.7,7h 35m,3,2026-12-09,7.8,45,verified,139,yesterday
+STU0172,Physics,44.5,50,83.1,6.3,Hard,2026-12-09,6.0,50/50,see note,1027,yesterday
+STU0134,chem,51.5,50,98.1,5.9,3,2026-12-11,7.8,40%,see note,800,yesterday
+STU0082,English Communication,36.0,50,74.3,5.3,2,12-18-2026,None,45,see note,491,
+STU0166,English Communication,40.0,50,81.4,5.4 hrs,1,12-18-2026,6.6,50,late entry,995,yesterday
+STU0169,Mathematics,40.5,50,74.1,7.9,4,2026-12-07,7.0,45,verified,1008,Nov 2 2026
+STU0011,English Communication,42.5,50,80.8,4.5,2,2026-12-18,7.1,50,check later,65,
+STU0180,Chemistry,36.0,50,53.0,5.9,2,2026-12-11,7.5,40,late entry,1076,2026-11-01 09:15
+STU0110,PHYSICS,51%,50,75.9,6.9,hard,2026/12/09,5.9,30,check later,655,Nov 2 2026
+STU0179,programming,49.5,50,68.6,7.8,2,00-00-0000,,50,,1071,Nov 2 2026
+STU0050,chem,37.0,50,69.5,4.7,Easy,2026-12-11,7.0,45,,296,01/11/2026 14:02
+STU0099,Programming,37.0,50,75.1,6.7,2,2026-12-14,6.9,45,verified,591,Nov 2 2026
+STU0070,English Communication,37,50,56.0,4.8,3,2026-12-18,6.6,45,check later,419,01/11/2026 14:02
+stu0074,MATHEMATICS,46.5,50,--,5.9,4,2026-12-07,7.0,50.0,see note,438,2026-11-03T10:45:00
+STU0044,Programming,39.5,50,88.5,7.0,4,2026-12-14,5.9,50,needs review,261,Nov 2 2026
+STU0134,Mathematics,24.0,50,75.9,7.1,4,2026-12-07,7.8,30 ,verified,798,2026-11-03T10:45:00
+STU0047,English Communication,29.0,50,68.5,None,1,26-12-18,5.9,35,see note,281,2026-11-03T10:45:00
+stu0105,Chemistry,40.5,50,88.5,8.7,3,2026-12-11,seven,50,verified,626,01/11/2026 14:02
+STU0197,Engineering Drawing,31.5,50,79.8,4.7,2.0,2026-12-16,5.8,45,needs review,1180,2026-11-03T10:45:00
+STU0130,Programming,28.0,50,92.3,5.4,3,14/12/2026,5.5,30,see note,777,Nov 2 2026
+STU0032,CHEMISTRY,39.0,50,100.0,10.6,2,2026-12-11,5.4,50,,188,Nov 2 2026
+STU0171,English Communication ,29.5,50,89.2,8.4,2,,6.5,35,??,1025,2026-11-01 09:15
+STU0042,english communication,33.5,--,100.0,7.5,2,2026-12-18,4.3,45,late entry,251,
+STU0144,Chemistry,43.5,50,84.9,8.0,2,12-11-2026,6.1,50,,860,yesterday
+STU0126,Physics,19.5,50,85.6,?,4,2026-12-09,null,30,check later,751,
+STU0134,Physics,51%,50,95.4,--,4,2026-12-09,7.8,30,,799,01/11/2026 14:02
+-,Engineering Drawing,34.5,50,79.8,5h 12m,2,2026-12-16,6.9,45,,514,yesterday
+STU0114,English Communication,42.5 marks,50,71.0,4.6,3,None,7.4,45,needs review,683,Nov 2 2026
+STU0082,Physcs,29.5,50,58.9,9.9,5,2026-12-09,6.4,40,late entry,487,2026-11-03T10:45:00
+STU0046,Programming,17.5,50,85.9,8.0,2,26-12-14,NULL,20,check later,273,2026-11-01 09:15
+STU0177,Engineering Drawing,40.0,50,75.7,8.3,2,2026-12-16,6.0,50,late entry,1060,2026-11-01 09:15
+STU0193,Mathematics,38.0 marks,50,0.687,5h 35m,4,2026-12-07,6.9,50,see note,1152,2026-11-03T10:45:00
+STU0075,Engineering Drawing,38.0,50,83.0,3.4,1,2026-12-16,6.8,50,??,448,2026-11-01 09:15
+STU0069	,Programming,38.0,50,69.7,6.5,4,2026-12-14,8.2,40,,411,
+STU0163,English Communication,32.0,50,89.5,4.8,Medium,2026-12-18,7.6,40,,977,yesterday
+student id, Subject ,MARKS_OBTAINED,max marks,Attendance %,Study Hours ,difficulty_level,Exam Date,sleep hours,Goal_Score ,Remarks,Unnamed: 0,Entry_Timestamp
+STU0138,Programming,37.5,50,97.1,5.7,3,December 14 2026,6.0,45,,825,yesterday
+NULL,Engineering Drawing,26.5/50,50,72.3,5.0,2,2026-12-16,4.8,35,check later,1114,01/11/2026 14:02
+STU0182,Math ,31.5,50,79.5,7.1,2 ,07/12/2026,6.8,45,verified,1086,2026-11-03T10:45:00
+STU0025,english communication,42.0 marks,50,100.0,6.1,2,December 18 2026, ,50,verified,149,2026-11-01 09:15
+STU0150, ,37.5,50,68.2,4.3,1,2026-12-18,7.9,40,,899,
+ STU0037 ,CHEMISTRY,43.5,50,89.6,8.8,3,2026-12-11,5.9,50,check later,218,2026-11-01 09:15
+STU0040,ENGLISH COMMUNICATION,36.5,50,67.4,10.5,2,2026-12-18,,50,see note,239,
+STU0154,Chemistry,31.5,50,63.0,6.1,3,11.12.2026,6.9,40,,920,2026-11-01 09:15
+S0033,Mathematics,23.5,50,82.8%,5.1,4,2026-12-07,7.5,35,check later,192,01/11/2026 14:02
+STU0032,English Communication,39.5,50,95.2,10.5,?,2026-12-18,5.4,50,verified,191,
+STU0113,Chemistry,30.0,50,82.6,5.2,4,2026-12-11,6.6, ,retake,674,yesterday
+STU0119,Mathematics,49.0,50,85.0,8.3h,4.0,2026-12-07, ,50,needs review,708,Nov 2 2026
+STU0174,Engineering Drawing,32.0,50,69.8,9.9,2,2026-12-16,6.2,40,,1042,2026-11-01 09:15
+STU0108,Chemistery,47.5,50,75.5,7h 24m,2,2026-12-11,6.7,50%,??,644,2026-11-03T10:45:00
+STU-0179,Physics,37.5,50,67.6,48,5,2026-12-09,7.2,50,verified,1069,2026-11-03T10:45:00
+STU0115,Engineering Drawing,31.5,50,NULL,4.9,1,2026-12-16,6.8,45,see note,688,2026-11-01 09:15
+STU0003,Engineering Drawing,32.0,50,56.9,5.8,-1,2026-12-16,5.5 hrs,35,,16,2026-11-03T10:45:00
+STU0174,Physics,22.5,50,63.7,540 min,5,2026-12-09,6.2,25,retake,1039,Nov 2 2026
+STU0098	,Mathematics,32.5,50 marks,73.7%,7.3,4,2026-12-07,7.4,35,,582,
+,,,,,,,,,,,,
+STU0136,mathematics,?,50,88.7,5.6,4 ,2026-12-07,NA,40,late entry,810,2026-11-01 09:15
+STU0105,Programming,32.5,50,87.9,9.4,2,2026-12-14,6.6,45,late entry,627,Nov 2 2026
+STU0199,Mathematics,41.0  ,50,73.8 %,7.1,3,2026-12-07,?,45,late entry,1188,2026-11-03T10:45:00
+STU-0054,English Communication,absent,50,76.3,8.0,2,December 18 2026,6.5,40,retake,323,2026-11-01 09:15
+STU0193,chemistry ,44.0,100,78.8,7.6,3,2026-12-11,6.9h,50,retake,1154,
+STU0106,Physics,27.0,50,82.9,9.4,4,09-Dec-2026,8.5,40,??,631,Nov 2 2026
+STU0165,Mathematics,?,50,76.1,11.3h,3,2026-12-07,7.2,50,retake,984,01/11/2026 14:02
+STU0127,Mathematics,33.5,50,58%,606 min,3,2026-12-07,6.6,40,,756,2026-11-03T10:45:00
+STU0073,English Communication,34.0,50,89.7,2.5h,2.0,26-12-18,7.6,35,??,437,2026-11-01 09:15
+STU0148,English Communication,27.5,50,95.9,6.3,1,2026-12-18,5.4,30,,887,2026-11-03T10:45:00
+STU0161,Chemistry,33.0,50,80.9,6.6 hrs,3,2026-12-11,--,40,late entry,962,
+STU0057,English Communication,33.0,50,77.4,NA,2,2026-12-18,7.4,45,??,341,
+STU0001,Chemistry,32.0,50,92.0,240 min,3,11.12.2026,7.6,40,late entry,2,Nov 2 2026
+STU0039,physics,32.5/50,50,44.1,6.2,3,2026-12-09,6.4,40,??,229,yesterday
+S0072,ENGINEERING DRAWING,26.0,50,100%,3.9,1,2026-12-16,7.9,35,see note,430,01/11/2026 14:02
+STU0036,Physics  ,35.0,50,82.7,8.8,3,2026-12-09,8.3,40 ,see note,211,01/11/2026 14:02
+STU0013,Engineering Drawing,38.0,50,52.4 %,3.0,2,16-Dec-2026,5.5,40,late entry,76,
+STU0198,physics,24.0,50,91.2, ,4,2026-12-09,6.7,30,,1183,2026-11-03T10:45:00
+S0062,English Communication,20.5,50,72.5,4.1hours,1,--,6.9,30,,371,01/11/2026 14:02
+STU0031,Mathematics,29.0,50,68.4,9.3,4,26-12-07,7.1,NA,needs review,180,01/11/2026 14:02
+STU0137,Chemistry,30.5,50,78.5,10.3,4.0,December 11 2026,?,35,??,818,Nov 2 2026
+STU0097,Physics,41.5,50,78.9,4h 47m,easy,12-09-2026,6.5,50,,577,Nov 2 2026
+STU0141,English Communication,31.0,50,63.5,8.4,2,2026-12-18,seven,40,verified,845,2026-11-03T10:45:00
+STU0146,chemistry ,37.5,50,84.3,9.1,4,2026-12-11,5.1,40,??,872,01/11/2026 14:02
+STU0184,Mathematics,,50,73.9%,9.1,3,12-07-2026,6.6,40,needs review,1098,Nov 2 2026
+STU0182,Programing,33.0,50,81.8,7.0,0,2026-12-14,6.8,40,see note,1089,Nov 2 2026
+STU0125,None,39.0,50,79.4,9.9,4,07-Dec-2026,6.5,50,check later,744,2026-11-03T10:45:00
+STU0099,Physics,-1,50,71.5,7.9,4,12-09-2026,6.9,40,needs review,589,yesterday
+-,maths,32.0,50,62.2%,8.3,4,"Dec 07, 2026",7.0,40/50,late entry,906,Nov 2 2026
+STU0157,Programming,39.0,50,76.0,11.5,3,14.12.2026,7.3,45,late entry,939,2026-11-01 09:15
+STU0052,English Communication,29.0,50,81.7,2.5,1.0,2026-12-18,6.3,35 ,see note,311,Nov 2 2026
+STU0051,Physics,19.0,50,73.9,0,4,2026-12-09,5.7,25pts,,301,yesterday
+STU0168,Programming,35.0,50,96.1,7.0,4,2026-12-14,6.5,45,retake,1005,2026-11-01 09:15
+STU0007,Physics,37.0,50,69.3,3.7,4,December 09 2026,6.8,45%,,37,
+STU0059,English Communication ,33.0,50,92.3,6.3,4.0,26-12-18,6.9,35,??,353,01/11/2026 14:02
+STU0165,Mathematics,?,50,76.1,11.3h,3,2026-12-07,7.2,50,retake,984,01/11/2026 14:02
+STU0040,Chemistry,33.0,50,58.5,9.1,5,"Dec 11, 2026",7.1,35,,236,Nov 2 2026
+ STU0178 ,Programming,--, 50,89.7,5.4,4,14/12/2026,5.4,50,see note,1065,2026-11-03T10:45:00
+STU0176,Programming,26.0,50,84.7,216 min,5,,6.6,35,,1053,01/11/2026 14:02
+STU0084,Physics  ,45.0,50,52.9,12.0,5.0,2026-12-09,7.6 hours,50,see note,499,2026-11-01 09:15
+STU0093,Physcs,31.0,50,82.8,8.0,5,2026-12-09,7.3,35,??,553,
+STU0010,Physics  ,23.0,50,86.3,7.1,5,"Dec 09, 2026",8.1,35,??,55,2026-11-01 09:15
+STU0051,Chemistry,20.0,50,68.0,7.5,4,2026-12-11,5.7,30pts,see note,302,2026-11-03T10:45:00
+STU-0048,Engineering Drawing,41.5,50,74.7%,6.6,2,2026-12-16,8.4,50,check later,286,yesterday
+STU0076,english communication,abs,50,56.9,6.3,2 ,2026-12-18,?,30,check later,455,2026-11-01 09:15
+STU0037,Programming,43.0,None,81.5,9.9,easy,2026-12-14,5.9,50.0,,219,
+STU0123,Mathematics,36.0,50,70.0,9.3,4,2026-12-07,9.0,45,verified,732,01/11/2026 14:02
+STU0065,programming,35.0,fifty,72.1,7.1,3,14/12/2026,7.3,45/50,,387,
+STU0182,Engineering Drawing,25.5,50,76.3,5.8,Level 2,2026-12-16,6.8,35%,needs review,1090,2026-11-01 09:15
+S0066,Mathematics,37.5,50,83.7,10.0,5,2026-12-07,7.6,45,late entry,390,2026-11-03T10:45:00
+STU0059,Engineering Drawing,35.0,50,99.1,6.3,2,2026-12-16,6.9,45,,352,2026-11-01 09:15
+STU0033,Physics,26.0,50,80.7,8.1,5 ,2026-12-09,7.5,30,needs review,193,yesterday
+STU0040,Physics,36.5,50,77.1,9.5,4,2026-12-09,7.1,45.0,verified,235,01/11/2026 14:02
+STU0181,English Communication,32.5,50,73.4,6.0,3,2026-12-18,6.1,35,retake,1085,2026-11-01 09:15
+Stu0116,Engineering Drawing,20.0/50,50,90,4.3,3,12-16-2026,5.2,25,??,694,
+STU0081,Mathematics,30.5,50,99.4,7.2,3,2026-12-07,7.0,40,??,480,
+STU0095,Programming,21.5,50,81.2,4.4,4,2026-12-14,6.0,30,verified,567,Nov 2 2026
+,,,,,,,,,,,,
+STU0020,Chemistry,28.0,50,81.5,5.2,3,2026-12-11,5.1,35,,116,yesterday
+STU0198,Programming,27.0,50,83.5,300 min,MEDIUM,14/12/2026,6.4,35,,1185,
+STU0109,English Communication,19.5,50,57.8,5.6,3,2026-12-18,5.7,30,late entry,653,Nov 2 2026
+STU0179,chem,48.5,50,0.732,,3,2026-12-11,7.2,50,??,1070,yesterday
+STU-0198,Engineering Drawing,25.5,50,97.6,5.4,3,2026-12-16,6.4,30,??,1186,Nov 2 2026
+STU0147,Programming,34.5,50,74.1,7.0,2,2026-12-14,7.9,NA,check later,879,2026-11-03T10:45:00
+STU0171,programming,31.0,50,77.7 %,7.3,2,2026-12-14,--,40,see note,1023,Nov 2 2026
+None,Mathematics,36.0  ,50,89.2,8.0,4,07/12/2026,-,40,,120,yesterday
+STU0177,Chemistry,49.5,50,73.9,,3,2026-12-11,6.0,50,,1058,01/11/2026 14:02
+STU0183,Programming,18.5, 50,100.0,6.8,med,2026-12-14,8.9,25,??,1095,01/11/2026 14:02
+STU-0163,Chemistry,33.0,50,-,4.1,3,2026-12-11,7.6,45,check later,974,
+STU0011,Chemistry,37.0,50,82.4,6.0,4 ,2026-12-11,7.1,40,check later,62,01/11/2026 14:02
+STU0124,English Communication,31.0,50,None,7.8,2,2026-12-18,6.3 hours,35,check later,743,yesterday
+stu0128,Programming, ,50,93.3,4.6,3,14/12/2026,N/A,25,,765,yesterday
+STU0076,Programming,29.0,50,64.1,330 min,4,2026-12-14,8.8 hours,35,,453,yesterday
+STU0086,English Communication,42.0,50,78.5,3.6,Level 2,2026-12-18,6.9,50,late entry,515,yesterday
+STU0096	,Mathematics,17.5,50,60.7,8.7,4,2026-12-07,6.2,25,,570,2026-11-03T10:45:00
+STU0038,Physics,40.0,50,79.8,6.1hours,4,2026-12-09,NA,50,retake,223,yesterday
+STU0103,Physics,25.5,100,92.6,4.4,3,2026-12-09,5.4 hours,35,late entry,613,2026-11-03T10:45:00
+STU0037,English Communication,34.0,50,87.4 %,6.8,3,2026-12-18,5.9h,40,needs review,221,01/11/2026 14:02
+STU0129,English Communication,26.0,50,77.2,7.4,easy,2026-12-18,7.2,35,??,773,2026-11-03T10:45:00
+STU0153,Physics,None,50,72.5,11.3,3,December 09 2026,7.5,40,??,913,2026-11-03T10:45:00
+STU0078,Programming,34.0,50,87.9,4.0,3,2026-12-14,6.1,35%,,465,yesterday
+STU0009,Engineering Drawing,66%,50,93.1,6.5,2,2026-12-16,?,40,retake,52,01/11/2026 14:02
+STU0196,Programming,28.0,50,51.3,7.4,3,14.12.2026,6.2,30,verified,1173,01/11/2026 14:02
+STU0081,ENGLISH COMMUNICATION,,50 marks,97.7,8.7,3,2026-12-18,7.0,40,,485,Nov 2 2026
+STU0052,Mathematics,31.5,50,83.4,4.4,3,2026-12-07,6.3,35,late entry,306,2026-11-01 09:15
+STU0065,Chemistry,32.0,50,90.2,8.9,5,2026-12-11,7.3,40,,386,Nov 2 2026
+STU0026	,English Communication,45.0,50,90.7,5.6,2,26-12-18,6.3,50,,155,yesterday
+STU0176,maths,37.0,50,71.9,4.0,3,None,6.6,40,needs review,1050,2026-11-01 09:15
+STU0101,maths,25.0,50,67.5,5.5,4,07/12/2026,7.4,35,,600,Nov 2 2026
+STU0170,Mathematics,30.0,50,78%,6.1,5,?,4.6,35,??,1014,Nov 2 2026
+STU0042,chemistry ,34.0,50,98.6,8.5,3,2026-12-11,4.9,45pts,??,248,
+STU0127,english communication,40.0,50,78,7.3,2,2026-12-18,6.6,45,verified,761,yesterday
+STU0074,Programming,abs,50,NULL,6.9,Hard,14/12/2026,NULL,50,late entry,441,
+STU-0194,English Communication,35.0  ,50,81.9,null,2,2026-12-18,7.4,45,see note,1163,Nov 2 2026
+STU0011,Physics,40.5, 50,83.3,6.0,3,2026-12-09,15,50,duplicate?,61,yesterday
+STU0091,Chemistry,36.0,50,69.7,9.2,3,2026-12-11,5.7,500,verified,542,01/11/2026 14:02
+STU0117,English Communication,39.5,50,0.878,342 min,2,2026-12-18,6.9,45/50,check later,701,01/11/2026 14:02
+STU0020,Programing,31.5,50,70.3 %,NULL,3,2026-12-14,--,40,,117,2026-11-03T10:45:00
+STU0150,Programming,41.5,50,999,6.9,4,2026-12-14,7.9,50,verified,897,
+STU0105,Engineering Drawing,37.5,50,91.3,9.3,1,2026-12-16,6.6,40,late entry,628,2026-11-03T10:45:00
+STU0137,programming,25.0,50,63.5,4.8,2 ,2026-12-14,8.8,30,retake,819,yesterday
+STU0035,Chemistry,32.0,50,86.7,6.4,3,2026-12-11,6.8,35,see note,206,2026-11-03T10:45:00
+STU0049,Programming,28.5,-,88.7,4.2,Easy,December 14 2026,6.9,40%,late entry,291,01/11/2026 14:02
+STU0187,chem,22.0,50,69.2,,3,2026-12-11,8.9,35,needs review,1118,yesterday
+Stu0064,Programming,39.0,50,77.3,4.9,2,2026-12-14,9.0,45,check later,381,2026-11-03T10:45:00
+STU0148,Physics,23.5 marks,50.0,0.795,9.4 hrs,4,09/12/2026,5.4,30,verified,883,01/11/2026 14:02
+STU0097,English Communication,43.0,50,0.782,5.9h,1,2026-12-18,6.5,50,retake,581,2026-11-03T10:45:00
+STU0034,Chemistry,37.5,50 marks,78.1,8.7,3,not announced,6.1,45,,200,2026-11-01 09:15
+stu0100,Chemistry,35.5,50,150,,3,2026-12-11,4.5,45,??,596,01/11/2026 14:02
+STU0180,ENGLISH COMMUNICATION,35.5,50,75.4,8.7,2,18.12.2026,7.5,45,,1079,2026-11-01 09:15
+STU0081,Mathematics,30.5,50,99.4,7.2,3,2026-12-07,7.0,40,??,480,
+STU0129,Chemistery,31.5,50,84.7,5.3,3,2026-12-11,7.2,35,duplicate?,770,
+STU0192,Engineering Drawing,37.5 marks, 50,N/A,5.8,1,2026-12-16,5.8,45,,1150,01/11/2026 14:02
+STU0129,physics,23.5,50,63.9,4.4,4,2026-12-09,7.2,30,,769,2026-11-01 09:15
+ STU0170 ,Engineering Drawing,80%,50,74.2%,6.5,3,2026-12-16,4.6,50,,1018,yesterday
+STU0085,Physics,49.5,50,66.3,9.8,3,2026-12-09,7.0,50/50,late entry,505,Nov 2 2026
+STU0059,Mathematics,33.5,50,83.7,7.5,3,2026-12-07,6.9h,40,,348,Nov 2 2026
+STU0175,Mathematics,75,50,83.4,9.4,4,07.12.2026,7.2,40,,1044,yesterday
+S0152,Programming,27.5,50,69.1,NA,3,14/12/2026,7.0,35,duplicate?,909,
+STU0057,Engineering Drawing,40.0,50,74.5,4.5,2,2026-12-16,7.4,45,needs review,340,
+STU0170,Chemistery,43.0  ,50,84.0,5.8,3.0,2026-12-11,4.6,50,late entry,1016,yesterday
+stu0103,Programming,29.0,50,91.7,6.2,3,?,5.4,40,??,615,2026-11-03T10:45:00
+STU0026,engineering drawing,38.5,50,75.4,2h 47m,2,16.12.2026,6.3,45,,154,2026-11-03T10:45:00
+STU0198,Chemistry,24.5,50,88.6,6.8,4,26-12-11,6.4h,None,late entry,1184,2026-11-01 09:15
+STU0147,Mathematics,39.0,50,79.6,5.9,4,2026/12/07,7.9,500,late entry,876,2026-11-03T10:45:00
+STU0013,english communication,36.5,50,60.6,1.6,2,2026-12-18,5.5,45,needs review,77,2026-11-03T10:45:00
+STU0048,English Communication,36.0,50,80.5,3.6,3,2026-12-18,8.4,null,,287,2026-11-03T10:45:00
+STU0054,Engineering Drawing,42.0,50,81.9,7.3,1,16-Dec-2026,6.5,50,verified,322,2026-11-01 09:15
+STU0158,Engineering Drawing,34.0,50,99.8,6.5,1,2026-12-16,6.8,40,,946,2026-11-01 09:15
+STU0158,Programing,28.5,50,82.2%,5.7,med,"Dec 14, 2026",6.8,30,see note,945,01/11/2026 14:02
+STU0162,English Communication,38.5/50,50,73.3,5.5,1,2026-12-18,7.4,45,,971,
+STU0194,Chemistery,33.0,50,87.2,3.5,3,2026-12-11,7.4,40,verified,1160,01/11/2026 14:02
+STU0014,Engineering Drawing ,42.5,50,90.1,6.3,Level 2,2026-12-16,8.1,50,,82,Nov 2 2026
+STU0153,Mathematics,27.0,50,66.9,9.6,med,2026-12-07,7.5,35,check later,912,yesterday
+STU0078,chemistry ,27.5,50,79.6,3.4 hrs,4,2026-12-11,6.1,40,late entry,464,
+STU0058,Physics,27.0,50,65.6,3.9,3 ,December 09 2026,6.1,35,duplicate?,343,yesterday
+STU0145,english communication,32.0,50,81%,5.4,2,2026/12/18,6.2,40,,869,2026-11-03T10:45:00
+STU0042,chemistry ,34.0,50,98.6,8.5,3,2026-12-11,4.9,45pts,??,248,
+STU0149,Mathematics,24.5,50,86.0,7.7,med,December 07 2026,5.6,35,,888,Nov 2 2026
+STU0056,Programming,34.0,50,78.2,4.8,3,2026-12-14,7.7,40,retake,333,Nov 2 2026
+STU0002,Engineering Drawing,38.5,50,59.8,8.7,1,2026-12-16,6.7 hrs,45,,10,yesterday
+,,,,,,,,,,,,
+STU0124,Mathematics,28.5,50,78.6,2.6,4,2026-12-07,6.3,30,needs review,738,2026-11-03T10:45:00
+STU0079,Chemistry,58%,50,59.4,6.1,2,2026-12-11,9.0,35%,verified,470,2026-11-03T10:45:00
+STU0006,Chemistry,33.5,50,0.862,7.1,4,2026-12-11,7.2,45,verified,32,01/11/2026 14:02
+STU0151,maths,42.0,50,74.8,11.8,3,2026-12-07,5.8,50,verified,900,yesterday
+ STU0069 ,English Communication,34.0,50,79.2,9.4h,3,18.12.2026,8.2,35,verified,413,yesterday
+--,Engineering Drawing,41.5,50,90.2,4.6,3,2026-12-16,6.5,50,??,580,
+STU0064,Engineering Drawing,32.0,50,None,7.6,2,12-16-2026,0,45,,382,yesterday
+---,,,,,,,,,,,,
+STU0133,Physics,33.5,50,96.6,7.2,4,2026-12-09,6.8,40,verified,793,2026-11-01 09:15
+STU0175,English Communication,-5,50,90.8,8.0,1,2026-12-18,7.2,--,duplicate?,1049,
+STU0146,Engineering Drawing,38.0,50,82.1,5.5,3,"Dec 16, 2026",5.1,40,see note,874,yesterday
+stu0140,Engineering Drawing ,34.0,50,80.5,6.7,2,26-12-16,5.9,45,,838,2026-11-01 09:15
+STU0161,Programming,32.5,50,76.0,7.6,MEDIUM,2026-12-14,6.1,40,retake,963,01/11/2026 14:02
+STU0166,English Communication,40.0,50,81.4,5.4 hrs,1,12-18-2026,6.6,50,duplicate?,995,yesterday
+STU0064,Mathmatics,36.0,50,77.3,--,3,NA,9.0,40 ,retake,378,Nov 2 2026
+STU0015,English Communication,37.0,50,97.0,6.4,1,18/12/2026,5.7,45,see note,89,01/11/2026 14:02
+STU0192,English Communication,39.0,50,82.2,9.2,3,2026-12-18,5.8,45,,1151,yesterday
+STU0101,Physics,22.5,50,60.4,9.3,3,12-09-2026,7.4,30,,601,2026-11-01 09:15
+STU0036,Programming,45.5,50,92.2,9.4,2,2026-12-14,8.3,50,,213,2026-11-03T10:45:00
+STU0139,english communication,41.5,50,90.5,258 min,2,2026-12-18,5.7h,50,??,833,01/11/2026 14:02
+Stu0056,CHEMISTRY,31.0,50,60.3,7.3,3,2026-12-11,7.7,40,??,332,2026-11-01 09:15
+STU0023,physics,39.0,50,84.6,7.5,3,09.12.2026,5.9,45,??,133,2026-11-01 09:15
+STU0058,engineering drawing,31.0,50,70.1%,3.5,0,-,6.1,40,,346,01/11/2026 14:02
+STU0037,Engineering Drawing,31.0,50,84.0,4.7,2,2026-12-16,5.9,40,see note,220,2026-11-01 09:15
+STU0002,Physics,40.0,50,73.1,9.3,4,2026-12-09,6.7 hours,45,,7,01/11/2026 14:02
+STU0162,PHYSICS,36.5/50,50,84.9,9.9,5,December 09 2026,7.4,50,,967,2026-11-01 09:15
+STU0054,chem,36.5,50,80.6,6.8,3,2026-12-11,6.5,45,verified,320,
+STU0187,English Communication,19.0,50,51.0,5.0,2,2026-12-18,8.9,30,,1121,2026-11-01 09:15
+STU0032,Physics,33.0,50,100.0,11.0,5,2026-12-09,5.4,35,late entry,187,2026-11-01 09:15
+STU0106,Engineering Drawing,35.0,50,83.3,7.1,2,2026-12-16,8.5,40,verified,634,01/11/2026 14:02
+STU0093,Mathematics,32.5,50,85.3,8.4,4,2026-12-07,7.3,40,,552,2026-11-03T10:45:00
+STU0051,Engineering Drawing,26.5,50,83.0,8.8hours,1,16-Dec-2026,5.7 hrs,-,??,304,Nov 2 2026
+STU0006,PHYSICS,33.5,50,84.6,N/A,4,2026-12-09,7.2,40,needs review,31,yesterday
+STU0160,English Communication,43.0  ,50,63.3,4.9,1,18.12.2026,5.2,50,see note,959,yesterday
+STU0115,Math ,33.5,50,60.8,6.4,4,2026-12-07,6.8,40,retake,684,2026-11-01 09:15
+STU0133,engineering drawing,40.0,50,95.5,6.1,Medium,16-Dec-2026,6.8,50,check later,796,2026-11-03T10:45:00
+STU0191,Engineering Drawing,43.5,50,91.4,7.6,3,16.12.2026,8.2,50,needs review,1144,2026-11-03T10:45:00
+Stu0041,Mathematics,33.5,50,86.5,7.7,3,2026-12-07,6.4,45,late entry,240,01/11/2026 14:02
+STU0012,Physcs,35.5,50,66.7,5.8,3,2026-12-09,9 hours,40,,67,Nov 2 2026
+STU0030	,Mathematics,40.5,50,89.4 %,7.6,4,12-07-2026,5.4,45,verified,174,01/11/2026 14:02
+STU0128,Engineering Drawing,19.0,50,74.4,8.2,3,December 16 2026,6.8,25,see note,766,yesterday
+STU0107,Programming,27.5,50,92.1,3.7,4,2026-12-14,8.2,35,,639,yesterday
+STU0041,English Communication,31.0/50,50,82.8,342 min,1,2026-12-18,6.4,40pts,,245,01/11/2026 14:02
+S0010,Chemistery,33.5,50,84.5,6.9,2,2026-12-11,8.1,35 ,needs review,56,yesterday
+Stu0106,MATHEMATICS,39.0,100,93.1,9.6,3,26-12-07,8.5,45,see note,630,2026-11-01 09:15
+STU0098,Physics,75,50,80.7,9.8,4,26-12-09,7.4,None,needs review,583,2026-11-01 09:15
+stu0184,Programming,29.5,50,79.5,7.1,?,not announced,6.6,40,,1101,01/11/2026 14:02
+STU0025,Physics,35.5,50,82.9,6.2,3,2026-12-09,7.0,45,retake,145,01/11/2026 14:02
+STU0016,mathematics,37.5,50,None,6.2,4,26-12-07,6.1,40/50,needs review,90,yesterday
+STU0200,,43.5  ,50,74.3,8.8,5,2026-12-07,7.1,50,late entry,1194,01/11/2026 14:02
+STU0066,CHEMISTRY,38.0,50,82.1,5.0,med,"Dec 11, 2026",7.6,45,check later,392,01/11/2026 14:02
+STU0164,English Communication,abs,50,83.1,6.9,2,null,6.6,45,,983,yesterday
+STU0114,Engineering Drawing,46.5,50,70.1,7.2,2,2026-12-16,7.4,50,??,682,01/11/2026 14:02
+STU0052,Engineering Drawing,33.0,50,,8.0,3,2026/12/16,6.3,40,,310,Nov 2 2026
+STU0060,English Communication,24.5,50,0.74,8.1 hrs,2,2026-12-18,6.7,30,see note,359,2026-11-01 09:15
+STU0016,programming,33.0 marks,50,78.5,6.8,3,14-Dec-2026,6.5,45,see note,93,Nov 2 2026
+STU0163,Mathematics,30.0,50,88.6,450 min,4,null,7.6,35%,,972,Nov 2 2026
+STU0180,Mathematics,36.5,50.0,59.1,6.1,3,2026-12-07,7.5,40,verified,1074,
+STU0095,ENGINEERING DRAWING,22.0,50,84.1%,5.0,1,16.12.2026,6.0,30,verified,568,Nov 2 2026
+STU0063,Engineering Drawing,45.5,50.0,79.5,8.1,2,2026-12-16,6.0h,50,,376,
+ STU0041 ,programming,74%,50,99.5,6.9,3,2026-12-14,6.4,45,??,243,2026-11-01 09:15
+STU0193,Engineering Drawing,44.5,50,71.4,4.3,1,2026-12-16,6.9 hrs,50/50,,1156,2026-11-01 09:15
+STU0015,Programming,30.0,50,67.2,9.8,3,December 14 2026,5.7,40,,87,2026-11-01 09:15
+STU0036,engineering drawing,33.0,50,71.5,4.9,2,2026-12-16,8.3,35,retake,214,2026-11-03T10:45:00
+STU0075,Mathematics,39.0,50,92.9,4h 0m,4.0,2026-12-07,6.8,45,retake,444,
+STU0143,Engineering Drawing,35.0,50,64.8,4.0,1,2026-12-16,7.0,40,verified,856,01/11/2026 14:02
+STU0029,English Communication ,51.5,50,57.7,456 min,2,2026-12-18,7.3,30,,173,2026-11-03T10:45:00
+STU0143,Physics,35.0,50,52.3,8.9,3,2026-12-09,7.2,45,??,853,Nov 2 2026
+STU0027,Programming,34.5,50,88.1,7.5,3,2026-12-14,7.1,45,??,159,
+STU-0071,English Communication,30.0,50,84.2,150 min,easy,2026-12-18,6.5,40,,425,yesterday
+STU0187,Physics,34,50,74.7,9.7,4,"Dec 09, 2026",8.9,45,,1117,yesterday
+STU0020,Engineering Drawing,33.5,50,83.6,7.7,easy,2026-12-16,5.1,40,see note,118,2026-11-03T10:45:00
+STU0020,English Communication,36.0,50,98.3,8.2,3,2026-12-18,None,45,verified,119,01/11/2026 14:02
+STU0174,mathematics,36.5,50,--,10.1,4,2026-12-07,6.2,45,??,1038,01/11/2026 14:02
+STU0185,English Communication ,34.5,100,72.6,4.2,2,2025-12-07,5.5,40,verified,1109,01/11/2026 14:02
+STU0001,Mathematics,35.0,50,90.3,2.7,2,26-12-07,7.6,40,,0,2026-11-03T10:45:00
+stu0066,Engineering Drawing,38.0,50,83.3,7.3,1,16.12.2026,7.6,50,check later,394,Nov 2 2026
+STU0067,English Communication,29.0,50,80.2,,1,2026-12-18,7.3,40,late entry,401,01/11/2026 14:02
+STU0068,Chemistery,25.0,50,68.6,11.3 hrs,?,2026-12-11,6.3,35,retake,404,Nov 2 2026
+STU0178,Mathematics, ,50,86.5,9.0,4,2026-12-07,5.4,45,??,1062,yesterday
+STU0164,Programming,39.0,50,86.5,10.3,4,2026-12-14,6.6,45pts,needs review,981,yesterday
+STU0028,Mathematics,23.0,50.0,62.0,6.9,4,07-Dec-2026,-,30,late entry,162,2026-11-01 09:15
+STU0139,Engineering Drawing,41.5,50,98.0,2.1,2,2026-12-16,5.7,50,,832,
+STU0020,Mathematics,39.0,50,80.4,null,4,2026-12-07,5.1,45,see note,114,yesterday
+STU-0112,ENGINEERING DRAWING,--,50,84.9,9.2,2,2026-12-16,7.7,50,verified,670,
+STU0026,Mathematics,40.5,50,89.2,438 min,4,2026-12-07,None,50,retake,150,
+STU0154,Programming,33.0,50,62.5,4.6,3,2026-12-14,6.9,40,retake,921,01/11/2026 14:02
+STU0148,Physics,23.5 marks,50.0,0.795,9.4 hrs,4,09/12/2026,5.4,30,duplicate?,883,01/11/2026 14:02
+STU0094,Programming,56%,50,71.5,8.8,4,2026-12-14,6.5 hours,35,needs review,561,yesterday
+STU0062,Chemistry,20.0,50,62.7,5.7,3,"Dec 11, 2026",6.9,30,,368,01/11/2026 14:02
+STU0091,Programming,31.5,50,84.5,6.7,2,2026-12-14,5.7,35,,543,01/11/2026 14:02
+ STU0149 ,Physics,31.0,50,87.6,5.3,10,2026-12-09,5.6,35,,889,2026-11-03T10:45:00
+STU0080,Programming,34.0,50,71.0,7.2,4,2026-12-14,6.1,40,needs review,477,yesterday
+ STU0124 ,Physics,31.5,50,83.9,8.7,3,"Dec 09, 2026",6.3,35,duplicate?,739,01/11/2026 14:02
+STU0089,Engineering Drawing,32.5,50,79.7,10.7,3,26-12-16,8.4,40,see note,532,01/11/2026 14:02
+STU0105,Physics,abs,50,94.3,9.1,5.0,09/12/2026,6.6,45,,625,01/11/2026 14:02
+S0116,Chemistry,25.5,50,100.0,5.5,3,2026-12-11,5.2,35,retake,692,01/11/2026 14:02
+STU0086,Chemistry,33.5,50,81.7,6.3,3,2026-12-11,6.9,40,late entry,512,2026-11-01 09:15
+STU0155,Mathematics,36.0,50,84.3,5.6,5,2026-12-07,8.2,45,check later,924,
+STU0144,Programming,46.0,50,77.9,6.4,3,2026-12-14,6.1,50,retake,861,01/11/2026 14:02
+STU0013,Mathematics,35.0,50,70.4,2.2,2,2026-12-07,5.5,--,see note,72,Nov 2 2026
+STU0155,Programming,42.0,50,79.0,5.1,3,14-Dec-2026,8.2,50,,927,2026-11-01 09:15
+STU0135,null,63%,,73.1,4.1,3,2026-12-14,6.9,40,,807,yesterday
+STU0044,Mathematics,AB,50,75.6,7.0,NA,2026-12-07,5.9,35/50,,258,2026-11-01 09:15
+STU0105,Mathematics,37.0,50,83.7,10.4,4,2026-12-07,6.6,,verified,624,Nov 2 2026
+STU0138,Engineering Drawing,25.0,50,73.9,9.5,3,2026-12-16,6.0,35,retake,826,2026-11-01 09:15
+STU0040,maths,29.0,50,51.0,10.0,4,2026-12-07,7.1,NA,late entry,234,2026-11-01 09:15
+ STU0023 ,Programming,40.5,50,71.2 %,5.4,3,2026-12-14,5.9,50,,135,2026-11-01 09:15
+STU0103,Engineering Drawing,24.0,50,87%,5.9,3,16.12.2026,5.4,30/50,,616,yesterday
+STU0087,Mathematics,39.5,50,68.3,4.0,Level 4,07-Dec-2026,7.7,45,late entry,516,2026-11-03T10:45:00
+STU0180,Programming,38.5,50,73.9,5.1,2,2026-12-14,?,50,,1077,
+STU0140,Chemistery,29.0,50,66.8,--,4,2026-12-11,5.9,40.0,,836,2026-11-03T10:45:00
+STU0141,Chemistry,37.5,50,89.5,8.2,3,12-11-2026,5.6,45,retake,842,2026-11-03T10:45:00
+STU0134,ENGINEERING DRAWING,34.5  ,50,92.9,4.7,2,2026-12-16,7.8,40,late entry,802,yesterday
+STU0142,ENGLISH COMMUNICATION,34.0/50,50,71.0,4.8,2,2026-12-18,8.0,45,,851,2026-11-01 09:15
+STU0135,English Communication,38.5,50,74.9,0,1,2026-12-18,6.9,50,,809,Nov 2 2026
+STU0099,Engineering Drawing,41.0,null,76.2,6.6,1,16.12.2026,6.1,50.0,check later,592,
+STU0190,Mathematics,35.5,50,69.2,8.8,3,07-Dec-2026,6.6,45,,1134,01/11/2026 14:02
+STU0084,Programming,79%,50,73.0,8.3,3,12-14-2026,7.6 hrs,50,needs review,501,yesterday
+STU0090,Engineering Drawing,23.0,50,0.814,4.7,2,16.12.2026,8.3,30,check later,538,2026-11-03T10:45:00
+STU0173,physics,abs,50,69.9,6.2h,3,2026-12-09,7.0,35,see note,1033,
+STU0122,Chemistry,36.5,50,99.8,2.2h,2,11/12/2026,-,45.0,see note,728,01/11/2026 14:02
+STU0097,English Communication,43.0,50,0.782,5.9h,1,2026-12-18,6.5,50,retake,581,2026-11-03T10:45:00
+STU0058,Physics,27.0,50,65.6,3.9,3 ,December 09 2026,6.1,35,retake,343,yesterday
+STU0175,English Communication,-5,50,90.8,8.0,1,2026-12-18,7.2,--,retake,1049,
+STU0164,Chemistry,NULL,50,83.8,7.7,3,12-11-2026,6.6,45,late entry,980,Nov 2 2026
+STU0049,English Communication,27.0,50,72.1,0,2,2026-12-18,6.9,35,??,293,2026-11-01 09:15
+STU0061,Engineering Drawing,29.0 marks,50,84.4,7.2,2,"Dec 16, 2026",7.7,40,needs review,364,yesterday
+STU0195,Engineering Drawing,30.5,50,94.7,4h 0m,2,2026-12-16,6.7,35,verified,1168,Nov 2 2026
+STU0110,English Communication,27.5,50,67.4,6.5,2,2026-12-18,5.9,40,check later,659,01/11/2026 14:02
+STU0003,CHEMISTRY,76%,50,60%,5.9,3,2026-12-11,5.5,40,??,14,
+STU0115,Chemistry,36.0,50,64.4%,9.5,3,26-12-11,6.8,45,see note,686,Nov 2 2026
+ STU0015 ,Chemistry,31.0,50,82.6,10.6,4,2026-12-11,5.7,35,needs review,86,2026-11-03T10:45:00
+STU0062,Engineering Drawing,22.5,50,?,5.2,3,2026-12-16,6.9,30,verified,370,2026-11-01 09:15
+STU0028,Programming,29.0,50,60.6,5.9,3,2026-12-14,8.2,35,check later,165,yesterday
+STU0022,English Communication,35.0,50,0.651,2.5,1,18.12.2026,5.7,45,verified,131,
+STU0056,English Communication,29.5,50,66.9,5.9,2,2026-12-18,7.7,35,see note,335,2026-11-03T10:45:00
+STU0010,English Communication,28.5, 50,81.1,3.9,2,18.12.2026,8.1,35,verified,59,yesterday
+STU0119,Physics,48.0,50,78.0,12.7,Level 5,09.12.2026,6.5,50%,,709,
+STU0143,Chemistry,25.5,50,65.4,6.4,3,--,7.0,35,see note,854,Nov 2 2026
+Stu0113,Engineering Drawing ,33.5,50,89.0,4.7,2,2026-12-16,6.6,40,,676,
+S0060,Mathematics,28.0,50,60.0,10.6,5,26-12-07,6.7,35,verified,354,2026-11-03T10:45:00
+STU0131,Mathematics,35.5,50,80.5,9.8,med,2026-12-07,6.0,45,see note,780,
+STU0071,Engineering Drawing,28.5,50,81.8,5.0,2 ,16.12.2026,6.5,35,,424,2026-11-03T10:45:00
+S0049,Engineering Drawing,19.0,50,82.5,2.6,2,2026-12-16,6.9,30,late entry,292,yesterday
+STU0007,English Communication,34.5,50,66.5,5.0,2,2026-12-18,6.8,40 ,,41,01/11/2026 14:02
+STU0190,Programming,35.5,50,75.5 %,8.4,3,"Dec 14, 2026",6.6,45,needs review,1137,2026-11-01 09:15
+STU0055,English Communication,37.0  ,50,78.5,7.4,3,2026-12-18,7.0,50,see note,329,
+STU0103,Chemistry,25.0,50,83.4,1.6,3,2026-12-11,5.4,35,retake,614,01/11/2026 14:02
+STU0072,Programming,20.5,50,94.3,3.7,4,2026-12-14,7.9 hours,30,,429,Nov 2 2026
+STU0014,Physics  ,88%,50,90.2,8.5,4 ,2026-12-09,8.1h,50,,79,2026-11-01 09:15
+STU0116,Programming,-5,50,100.0,4.8,3,2026-12-14,5.2,30,,693,yesterday
+STU0005,Engineering Drawing,48.0,50,--,5.4,1,2026/12/16,8.8,50,needs review,28,Nov 2 2026
+STU0157,Physics,37.5,50,-,11.0,4,2026-12-09,7.3,50,late entry,937,01/11/2026 14:02
+STU0118,English Communication,30.5,50,84.1,1.4,1,"Dec 18, 2026",7.0,40,,707,
+STU0149,Engineering Drawing ,21.5  ,50,91.5,4.2,,2026-12-16,5.6,30,retake,892,01/11/2026 14:02
+STU0154,Mathematics,38.0,50,71.8,8.2,4,26-12-07,6.9,45 ,,918,2026-11-03T10:45:00
+STU0140,Mathematics,29.0,50,71.7,11.0,5,2026-12-07,5.9,30,,834,
+STU0125,English Communication,44.0,50,79.8,8.2,2,2026-12-18,6.5,-,needs review,749,2026-11-01 09:15
+STU0149,Chemistry,27.5,50,97.6,7.9,,2026-12-11,5.6,35,verified,890,Nov 2 2026
+STU0043,chemistry ,46.5,50,-10,8.1,2,11/12/2026,7.5h,50,late entry,254,yesterday
+STU0027,Engineering Drawing,25.5,50,84.9,4.1,1,December 16 2026,7.1,30pts,verified,160,
+STU0077,Chemistry, ,50,73.4,3.5,4,2026-12-11,7.8,50,check later,458,yesterday
+STU0177,Engineering Drawing,40.0,50,75.7,8.3,2,2026-12-16,6.0,50,late entry,1060,2026-11-01 09:15
+STU0064,English Communication,33.0,50,null,24,2,18.12.2026,9.0,,,383,
+STU0053,Physics,21.5,50,100.0,6.6,4,2026-12-09,5.9,N/A,needs review,313,01/11/2026 14:02
+STU0015,Mathematics,thirty five,50,90.1,9.9,HARD,2026/12/07,N/A,100,,84,Nov 2 2026
+STU0096,Engineering Drawing,28.0,50,72.2,7.3,NA,"Dec 16, 2026",6.2,35,,574,2026-11-03T10:45:00
+STU0128,Math ,19.5,50,80.1,7.8,4,2026-12-07,6.8,25,verified,762,2026-11-01 09:15
+STU0023,Engineering Drawing,37.5,50,89.6,NULL,3,"Dec 16, 2026",seven,40,??,136,2026-11-01 09:15
+STU0019,PROGRAMMING,27.5,50,69.1,9.1,4,12-14-2026,7.2,35,,111,Nov 2 2026
+STU0033,Chemistry,25.0,50,81.4,6.0,4,2026-12-11,7.5,30,see note,194,01/11/2026 14:02
+STU0143,Mathematics,24.5,50,60.5,7.7 hrs,5,2026-12-07,7.0,30,needs review,852,2026-11-01 09:15
+STU0030,Engineering Drawing,41.0,50,150,8.3,3,2026-12-16,5.4,50,,178,01/11/2026 14:02
+STU0093,programming,39.5,--,80.8,12.4,3,"Dec 14, 2026",7.3,45%,,555,2026-11-03T10:45:00
+STU0121,Prog.,25,50,62.5,7.9,5,2026-12-14,8.2,30,retake,723,01/11/2026 14:02
+STU0144,NA,34.0,50,75.7%,NA,5,2026-12-09,6.1,45,,859,yesterday
+ ,programming,80%,50,71.5,10.1,4,2026-12-14,7.4,50,verified,969,01/11/2026 14:02
+STU0083,Engineering Drawing,40.5,50,70.5,6.6,1,"Dec 16, 2026",6.9,45,see note,496,2026-11-01 09:15
+stu0159,Chemistry,17.5,50,78.2,7.8,4,2026-12-11,6.4,25,retake,950,Nov 2 2026
+STU0167, ,44.5,50,79.8,5.8,2,2026/12/07,7.5,50,see note,996,yesterday
+STU0135,Physics  ,33.0,50,null,10.4,6,2026-12-09,6.9,40,see note,805,Nov 2 2026
+STU0022,Programming,32,50,66.3,6.2,3,2026-12-14,5.6,35,retake,129,yesterday
+STU0120,Physics,31.5,50,79.7,5.5,4,09.12.2026,6.6,40,??,715,yesterday
+STU0057,Physics,38.0,50,48.0,8.0,4,2026-12-09,7.4 hours,45,verified,337,yesterday
+STU0156,Programming,35.0,50,999,3.9,3 ,14.12.2026,7.3,40.0,duplicate?,933,2026-11-03T10:45:00
+STU0102,chemistry ,41.0,50,61.3,9.7,3,2026-12-11,7.6,45,,608,2026-11-03T10:45:00
+STU0021,engineering drawing,33.0,50,85.7,9.0,2,2026-12-16,7.4,40,verified,124,yesterday
+STU0033,Programming,25.0,50,71.7,3.1,4,12-14-2026,7.5,30,check later,195,Nov 2 2026
+STU0038,Engineering Drawing,38.5,50,61.1,3.5,3,2026-12-16,8.5,40,check later,226,Nov 2 2026
+STU0115,English Communication,37.0,50,72.0,6.7 hrs,3,?,6.8,None,needs review,689,2026-11-03T10:45:00
+STU0045,Engineering Drawing,18.0,50,59.6,1.6,2,2026/12/16,7.1,30,late entry,268,
+STU0026,Chemistry,35.5,50,None,5.2,3,2026-12-11,NA,45,retake,152,yesterday
+S0152,Programming,27.5,50,69.1,NA,3,14/12/2026,7.0,35,see note,909,
+STU0098,Chemistry,32.0,50,79.1,6.8,3,"Dec 11, 2026",7.4,40,retake,584,Nov 2 2026
+STU0197,Programming,absent,50,55.1,10.8,5,December 14 2026,5.8,40,??,1179,01/11/2026 14:02
+STU0018,physics,44.5,50,57.5,5.2,3,2026-12-09,7.2,50,,103,01/11/2026 14:02
+STU0165,Chemistry,42.5,50,69.6,660 min,4,December 11 2026,7.2,N/A,check later,986,01/11/2026 14:02
+STU0099,English Communication,32.0,50,68.9,3.0,2,2026-12-18,6.9h,40 ,,593,
+STU0197,physics,23.5,50,68.2,6.4,None,2026-12-09,5.8,25,check later,1177,01/11/2026 14:02
+STU0199,Chemistry,48.5,50,65.6,8.7,2,2026-12-11,6.4,50,??,1190,2026-11-03T10:45:00
+null,maths,21.5,50,92%,6.9,4,2026-12-07,6.8,25,??,786,yesterday
+STU0162,Engineering Drawing,44.5,50,84.0,9.7,easy,2026-12-16,7.4,50pts,retake,970,01/11/2026 14:02
+STU0120,ENGLISH COMMUNICATION,27.5,50,80.3,4.4,1,2026-12-18,6.6,30,??,719,Nov 2 2026
+STU0148,Chemistry,21.5,50,84.5,--,3 ,26-12-11,5.4,25/50,retake,884,2026-11-01 09:15
+STU0130,Chemistry,54%,50,93.0,5.1,4,"Dec 11, 2026",5.5,35,,776,Nov 2 2026
+STU0173,Chemistry,31.0,50,0.786,8.8,4,2026-12-11,7.0,35,check later,1034,Nov 2 2026
+stu0142,Programming,32.5,50,68.5,5.6,3,2026-12-14,8.0,40,??,849,2026-11-01 09:15
+STU0150,Mathematics,NULL,50,70.8,7.6,4,TBD,7.9,40/50,??,894,yesterday
+STU0038,English Communication,46.0,50,75.0%,4.2,2,2026-12-18,8.5,50,retake,227,2026-11-01 09:15
+stu0107,Mathematics,28.0,50,99.9,-,5,2026-12-07,8.2,30,,636,2026-11-03T10:45:00
+STU0022,Mathematics,27.5,50,57.2,7.2,5,2026-12-07,5.6,35,,126,2026-11-03T10:45:00
+STU0068,Programming,23.5,50,55%,14.1,4,2026-12-14,6.3,25,??,405,2026-11-03T10:45:00
+STU0130,Physics,37.5,50,88.0,7.6,4,2026-12-09,5.5,45,,775,2026-11-03T10:45:00
+STU0137,English Communication,31.0,50,86.4,5.4h,2,2026-12-18,8.8,40,see note,821,01/11/2026 14:02
+STU0119,Programming,44.5,50,70.6,6.0,2,14.12.2026,6.5,50,see note,711,
+STU0032,Engineering Drawing,44.5,50,90.6,14h 41m,3,2026-12-16,5.4,50,check later,190,2026-11-03T10:45:00
+STU0051,Programming,24.5,50,65.7,8.0 hrs,3,December 14 2026,5.7,30,??,303,Nov 2 2026
+STU0045,Programming,27.5,50,70.0,1.4,1,14.12.2026,7.1,35,,267,Nov 2 2026
+STU0091,English Communication,34.5,50,72.3,4.7,2,18/12/2026,5.7,45,,545,yesterday
+STU0036,Chemistry,36.5,50,85.5,6.4,3,2026-12-11,8.3,45,??,212,2026-11-01 09:15
+STU0150,Chemistry,38.5/50,50,57.9,7.6,3,"Dec 11, 2026",7.9,50,retake,896,01/11/2026 14:02
+STU0153,Engineering Drawing, ,50,59.1,11.5,4,2026-12-16,7.5,35,??,916,2026-11-01 09:15
+STU0113,Programming,32.5,50,-,7.1,3,14/12/2026, ,100,,675,2026-11-03T10:45:00
+STU0136,Engineering Drawing,26.0,50,NULL,5.5,4,12-16-2026,6.3,35 ,retake,814,01/11/2026 14:02
+stu0058,maths,23.0,50,0.634,5h 12m,3,2025-12-07,6.1,25,??,342,01/11/2026 14:02
+stu0092,PROGRAMMING,25.0,50,83.3,7.8,4,2026-12-14,7.8,30,verified,549,yesterday
+STU0162,Mathematics,39.5,50,71.6,7.9,3,07.12.2026,7.4,50,see note,966,Nov 2 2026
+STU0050,Physics,42.0,50,68.7,6.0,hard,2026-12-09,7.0 hrs, ,see note,295,Nov 2 2026
+STU0116,English Communication,26.5,50,100.0,7.0,3,26-12-18,5.2h,35,,695,yesterday
+STU0013,Physics,38.5,50,64.7,7.0,Very Hard,2026-12-09,5.5,45,needs review,73,Nov 2 2026
+STU0101,English Communication,29.0,50,NULL,6.2,3,December 18 2026,7.4,40,late entry,605,01/11/2026 14:02
+STU0018,CHEMISTRY,35.5,50,None,9.2,3,2026-12-11,7.2,45,??,104,2026-11-03T10:45:00
+STU0108,Programming,43.0,50,84.3,6.8,4,2026-12-14,N/A,50,??,645,yesterday
+STU0056,Physics,31.5,50.0,63.0,10.5,5,12-09-2026,7.7,40,see note,331,2026-11-03T10:45:00
+STU0174,Chemistry,33.5,50,72.5,6.6,3,12-11-2026,6.2,45,needs review,1040,01/11/2026 14:02
+STU0074	,Physics,46.5,50,74.7,7.3,4,2026/12/09,-,50,check later,439,
+STU0170,English Communication,46.5,50,56.5,4.7,2,2026-12-18,4.6,50/50,retake,1019,2026-11-01 09:15
+STU0016,Physics,null,50,74.2,8.1,5,2026-12-09,6.5,40,??,91,01/11/2026 14:02
+STU0186,Programming,36.0,50,81.5,6.1hours,3,?,4.8 hrs,40,,1113,2026-11-01 09:15
+STU-0152,Chemistry,25.5,50,62.0,5.7,3,2026-12-11,7.0,30,check later,908,
+STU0018,Mathematics,41.0,50,48.4,0,?,12-07-2026,7.2,50,??,102,Nov 2 2026
+STU0040,Engineering Drawing,36.0,50,62.3,8.1,3,16-Dec-2026,7.1,45,needs review,238,01/11/2026 14:02
+STU0158	,maths,29.5,50.0,100.0,5.5,5,2026-12-07,6.8,35,check later,942,2026-11-01 09:15
+STU0157,Chemistry,48.0,50,81.6,11.8,4,11-Dec-2026,7.3h,50,needs review,938,2026-11-03T10:45:00
+STU0001,ENGLISH COMMUNICATION,37.0  ,50 marks,86.6,99,2,2026-12-18,7.6,45 ,retake,5,
+STU0200,Engineering Drawing,47.0,50,67.1,9.6,2,16-Dec-2026,7.1,50,??,1198,yesterday
+STU0161,English Communication,33.0,50,85.0,3.6,?,2026-12-18,6.1,40,,965,2026-11-01 09:15
+STU0004,Mathematics,25.5,50,83.8,7.4,MEDIUM,2026-12-07,5.9,30,late entry,18,
+STU0021,Physics,32.5,50,94.7,8.0,4,2026-12-09,7.4,35,needs review,121,Nov 2 2026
+STU0111,PHYSICS,32.0,50,95%,7.9,-1,12-09-2026,6.4,40,verified,661,
+STU0179,English Communication,47.5,50,78.1,7.1hours,Easy,2026-12-18,7.2,50,retake,1073,2026-11-01 09:15
+ STU0046 ,Engineering Drawing,18.5,50,NULL,6.6,2,2026-12-16,7.4,25,see note,274,yesterday
+STU0073,Physics,25.0,50,84.0,8.2,4,09/12/2026,7.6,30,see note,433,01/11/2026 14:02
+STU0136,Physics,21.0,50,98.1,5.2,4.0,2026-12-09,6.3 hours,25,check later,811,Nov 2 2026
+STU0046,Programming,17.5,50,85.9,8.0,2,26-12-14,NULL,20,duplicate?,273,2026-11-01 09:15
+STU0181,PROGRAMMING,-,50,88.4,5.7,3,2026-12-14,6.1,45,retake,1083,2026-11-01 09:15
+STU0031,Physics,36.0,50,90.5,8.3hours,4,2026-12-09,7.1,45,check later,181,
+ STU0031 ,Engineering Drawing,29.0  ,50,77.8,474 min,3,NA,null,40,,184,Nov 2 2026
+STU0068,Engineering Drawing,21.5,50,40.8,7.7 hrs,2,2026-12-16,6.3,30,see note,406,Nov 2 2026
+stu0145,Physics,thirty five,50,66.9,9.2,5,2026-12-09,6.2,30,,865,2026-11-01 09:15
+STU0087,Engineering Drawing,43.5,50,70.7,None,3,2026-12-16,7.7,50,,520,2026-11-01 09:15
+S0168,Physics,35.0,50,85.6,,4,2026-12-09,6.5 hrs,45.0,,1003,01/11/2026 14:02
+STU-0064,Chemistry,32.0,50,86.3,7.2,3,2026/12/11,9.0,40,,380,Nov 2 2026
+STU-0072,Physics,23.5 marks,50,90.5,7.6,4,2026-12-09,7.9,30,check later,427,01/11/2026 14:02
+stu0014,Mathematics,41.0,50,74.3,8.9hours,Level 3,2026-12-07,8.1,45 ,??,78,2026-11-03T10:45:00
+STU0169,Physics,41.5,50,77.6,9.2,4,2026-12-09,7.0,50,needs review,1009,
+STU0057,Engineering Drawing,40.0,50,74.5,4.5,2,2026-12-16,7.4,45,needs review,340,
+STU0102,Physics,44.0 marks,?,62.0,9.8,3,2026-12-09,7.6,50,retake,607,2026-11-03T10:45:00
+STU0189,Programming,45.5,50,76.1%,4.0,3,2026-12-14,6.9,50,verified,1131,2026-11-03T10:45:00
+STU0170,PROGRAMMING,40.5,50,79.4,3.1,2,2026-12-14,4.6,50,??,1017,Nov 2 2026
+STU0177,Physics,45.5,50,79.2,11.2,4,09-Dec-2026,6.0,50,see note,1057,2026-11-03T10:45:00
+STU0189,English Communication ,40.5,50,74%,4.7,3,2026-12-18,6.9,50,needs review,1133,2026-11-01 09:15
+STU0160,Engineering Drawing,43.5,50,76.0,2.2,3,2026-12-16,5.2,50.0,??,958,2026-11-01 09:15
+STU0094,Physics  ,27.0,50,59.3,11.3,3.0,2026/12/09,6.5,35,verified,559,01/11/2026 14:02
+STU0142,Mathematics,26.5,50,null,7.0,4,2026-12-07,8.0,35,see note,846,2026-11-01 09:15
+STU0116,MATHEMATICS,18.0,50,92.7,4.9,3,N/A,5.2,30,needs review,690,2026-11-01 09:15
+STU0178,Chemistry,40.5,50,82.6,8.8,4,2026-12-11,5.5,50,verified,1064,yesterday
+student id, Subject ,MARKS_OBTAINED,max marks,Attendance %,Study Hours ,difficulty_level,Exam Date,sleep hours,Goal_Score ,Remarks,Unnamed: 0,Entry_Timestamp
+STU0199,Physics,49.5,50,92.5,7.9,2,2026-12-09,6.4,50,late entry,1189,Nov 2 2026
+STU0073,Engineering Drawing,35.0,50,90.5,4.9 hrs,easy,2026-12-16,7.6,45,,436,2026-11-03T10:45:00
+STU0082	,Engineering Drawing,41.5,50,82.3,6h 5m,2,2026/12/16,6.4,50,check later,490,yesterday
+STU0045,Engineering Drawing,18.0,50,59.6,1.6,2,2026/12/16,7.1,30,duplicate?,268,
+STU0196,MATHEMATICS,37.0,50,55.4,7.6,3,2026-12-07,6.2,40,,1170,Nov 2 2026
+STU0012,PROGRAMMING,42.0,50,82.9,8.3,N/A,2026-12-14,9.0,45,,69,2026-11-03T10:45:00
+STU0135,Engineering Drawing,40.5,50,71.1,8.1,1,26-12-16,6.9 hours,50,,808,Nov 2 2026
+STU0002,null,39.0,50,N/A,9.0,2,2026-12-18,N/A,45pts,needs review,11,01/11/2026 14:02
+STU0025,Mathematics,32.0,50,0.928,5.5,3,NULL,7.0,40,retake,144,2026-11-01 09:15
+STU0153,English Communication,34.0,50,92.2,8h 5m,Level 2,2026-12-18,7.5,40,,917,01/11/2026 14:02
+STU0107,Programming,27.5,50,92.1,3.7,4,2026-12-14,8.2,35,,639,yesterday
+STU0030,CHEMISTRY,34.5,,82.9,9.0,3,2026-12-11,,40,verified,176,2026-11-01 09:15
+STU-0166,Engineering Drawing,40.0,50,90.6,7.4,2,2026/12/16,6.2,45,see note,994,Nov 2 2026
+STU0074,Chemistery,38.0,50,78.8,9.4,4,2026-12-11,7.0,45,,440,2026-11-03T10:45:00
+STU0087,English Communication,49.5,50,77.9,5.9,3,2026-12-18,7.7,50pts,needs review,521,yesterday
+STU0152,Engineering Drawing,,50,54.0,8.8,2,2026-12-16,7.0,35,duplicate?,910,
+STU0168,Chemistry,36.0,50,71.3,6.4,3.0,2026-12-11,6.5,45,,1004,yesterday
+STU0024,English Communication,34.0,50,81.9, ,2,2026-12-18,7.7 hours,40.0,,143,01/11/2026 14:02
+STU0126,Programming,30.5,50,,6.9,3,2026-12-14,6.0,40,see note,753,Nov 2 2026
+STU0087,Programming,44.0,50,70.0,6.8,2,2026-12-14,7.7,50,,519,Nov 2 2026
+STU0138,Mathematics,29.5,50,77.8,7.0,3,2026-12-07,6.2,35,verified,822,2026-11-03T10:45:00
+STU0072,Chemistry,26.5,50,null,5.0, ,2026-12-11,7.9 hrs,30,check later,428,yesterday
+STU0103,Mathematics,25.5,50,71.6,8.1,5,December 07 2026,5.4,35,,612,2026-11-03T10:45:00
+STU0173,Mathematics,21.0,50,78.4,4.7,4,2026-12-07,7 hours,30,check later,1032,2026-11-03T10:45:00
+stu0027,Mathematics,--,50,80.5,2.0,4,2026-12-07,7.1,25,retake,156,2026-11-03T10:45:00
+STU0090,ENGLISH COMMUNICATION,19.0,50,91.0,7.1,3,2026-12-18,8.3,25pts,,539,01/11/2026 14:02
+STU0077	,English Communication ,85%,50,67.5,3.3,3,TBD,7.8 hrs,50,verified,461,yesterday
+STU0097,Mathematics,43.0,50,92.4,6.0,3,"Dec 07, 2026",NULL,45,??,576,yesterday
+STU0043,Prog.,43.0,50,98.1,11.7,3,2026-12-14,7.5,50,see note,255,01/11/2026 14:02
+STU0164,Physics  ,36.5,50,64.2,5.8,3,26-12-09,null,45,check later,979,2026-11-01 09:15
+STU0168,Engineering Drawing,43.0,50,93.6,3.4,1,2026-12-16,6.5,45,,1006,01/11/2026 14:02
+STU0094,chemistry ,35.5,50,70.3 %,11.8,2,2026-12-11,6.5,45,check later,560,Nov 2 2026
+STU0035,ENGINEERING DRAWING,43.5,50,85.5,7.0,2,December 16 2026,6.8,50,check later,208,yesterday
+STU0152,Engineering Drawing,,50,54.0,8.8,2,2026-12-16,7.0,35,,910,
+STU0001,Physics,37.5,50,94.9,6.6,3,"Dec 09, 2026",7.6,50,,1,01/11/2026 14:02
+STU0045,English Communication,35.0,50,76.1,3.9,2,2026-12-18,7.1,40,needs review,269,
+STU0045,Physics,21.0,50,72.0 %,5.4,4,"Dec 09, 2026",7.1,30,see note,265,01/11/2026 14:02
+STU0153,Chemistry,44.5,50,78.4,6.0,1,2026-12-11,7.5,50,??,914,Nov 2 2026
+STU0039,Chemistry,33.5,50 marks,51.7,2.4,NULL,"Dec 11, 2026",6.4,,check later,230,Nov 2 2026
+STU0080,Chemistry,32.0,50,,9.6 hrs,4,2026-12-11,6.1,45,duplicate?,476,
+STU0187,Programming,35.5,50,64%,7.5,3,2026-12-14,8.9,40,late entry,1119,2026-11-01 09:15
+STU0092,Physcs,29.5,50,100,7.2,5,2026-12-09,7.8,40,verified,547,2026-11-03T10:45:00
+STU0145,Mathematics,34.0,50,78.8 %,7.3,4,2026-12-07,6.2,40/50,,864,
+STU0178,Engineering Drawing ,41.5 marks,50,86.5,5.7,1,2026-12-16,5.4,50,,1066,01/11/2026 14:02
+STU0146,Programming,40.5,50,74.8,6.4,3,2026-12-14,5.1,50,retake,873,yesterday
+STU0191,Physics,45.5,50,82.9,9.2,5.0,2026-12-09,8.2,,late entry,1141,2026-11-03T10:45:00
+STU0067,Chemistry,28.0,50,81.4,8.6,3,2026-12-11,7.3,40,,398,yesterday
+STU0195,Mathematics,18.5,50,89.3,3.7,3,07/12/2026,6.7,30,verified,1164,2026-11-03T10:45:00
+STU0008,Programming,25.0,50,70.3,4.6,3,2026-12-14,6.3,30,late entry,45,
+STU0027,?,31.5,50,99.4,3.6h,2,12-18-2026,7.1,40,,161,2026-11-03T10:45:00
+STU-0166,Physics,33.0,50,64.0,7.7,4,26-12-09,6.6,45,late entry,991,
+Stu0122,Physics,42.5,fifty,100.0,2.9,3,2026-12-09,8.1,50.0,??,727,yesterday
+STU0105,ENGLISH COMMUNICATION,37.0,50,98.1,7.3,2,December 18 2026,6.6,45,needs review,629,
+STU0049,,27.0,50,67.5,7.8,4,2026-12-07,6.9,40,,288,2026-11-01 09:15
+STU0177,Programming,47.5 marks,50,61.8,9.7,3,2026-12-14,6.0,50,needs review,1059,01/11/2026 14:02
+STU0099,Physics,-1,50,71.5,7.9,4,12-09-2026,6.9,40,needs review,589,yesterday
+STU0096,English Communication ,24.5,50,68.3,7.4hours,1,2026-12-18,6.2,30,,575,
+ STU0142 ,Engineering Drawing ,30.5,50,68.3,426 min,2,2026-12-16,8.0,40pts,,850,yesterday
+STU0152,English Communication,35.5,50,0.566,6.6,1,2026-12-18,7.0,40,,911,01/11/2026 14:02
+STU0193,English Communication,37.5,50,65.3,6.9,1,2026-12-18,6.9,40,??,1157,2026-11-03T10:45:00
+STU0156,Chemistry,--,50,73.7,N/A,4,2026-12-11,7.3,50 ,,932,
+STU0184,Chemistry,31.0/50,50,74.7,7.0,,12-11-2026,6.6,40,check later,1100,
+STU0042,Physcs,27.5,50,95.2,7.8,4,12-09-2026,4.9,35,,247,01/11/2026 14:02
+STU0080,Chemistry,32.0,50,,9.6 hrs,4,2026-12-11,6.1,45,check later,476,
+STU0015,Physics,31.5,50,74.6,8.7,4,09-Dec-2026,5.7,40,,85,Nov 2 2026
+STU0079,Physics,30.0,50,68.2 %,6.4,Level 4,2026-12-09,9.0,35,,469,Nov 2 2026
+STU0038,Programming,41.0,50,86.5,?,3,,8.5,45,verified,225,2026-11-03T10:45:00
+STU0130,Mathematics,35.0 marks,50,94.6,7.4,4,2026-12-07,5.5,45,check later,774,01/11/2026 14:02
+STU0056,Physics,31.5,50.0,63.0,10.5,5,12-09-2026,7.7,40,see note,331,2026-11-03T10:45:00
+S0039,English Communication,31.0,50,54.8,5.0,3,2026-12-18,6.4,40,??,233,yesterday
+STU0099,Mathematics,27.5,50,73.0,8.3h,4,12-07-2026,6.9 hrs,35,see note,588,01/11/2026 14:02
+STU0080,Physics,29.0,50,64.7 %,6.7,3,2026-12-09,6.1,40,,475,01/11/2026 14:02
+STU0100,English Communication,28.5,50,74.6,4.7,1,18.12.2026,4.5,35,,599,01/11/2026 14:02
+STU0071,--,26.5,50,87.6,24,5,2026-12-09,6.5,30,check later,421,Nov 2 2026
+STU0031,Chemistry,null,50,79.5,8.5,3.0,11-Dec-2026,7.1,40 ,verified,182,
+stu0165,Engineering Drawing,49.0,50,62.8,10.2,2,2026-12-16,7.2,50,??,988,2026-11-03T10:45:00
+STU0167,Engineering Drawing,42.5,50.0,100.0,?,2,2026-12-16,7.5,50,late entry,1000,2026-11-01 09:15
+Stu0009,PHYSICS,37.5,50,100.0,4.6,4,2026-12-09,8.9,50,needs review,49,Nov 2 2026
+STU0200,Chemistry,49.5,50,,9.6,2,2026-12-11,7.1,50,,1196,Nov 2 2026
+STU0172,Programming,49.5,50,82.2,7.5hours,3,2026-12-14,6.0,50,late entry,1029,yesterday
+STU0089,Physics,37.5,50,73.7,6.6,4,2026-12-09,8.4,45,,529,yesterday
+STU0082,Mathmatics,38.5,50,55.4,576 min,4,2026-12-07,6.4,45,late entry,486,2026-11-03T10:45:00
+STU0083,english communication,40.0,50,80.2,6.0,2,2026-12-18,6.9,null,late entry,497,Nov 2 2026
+STU0018,Engineering Drawing,39.0,50,51.5,7.7,?,12-16-2026,7.2,50,,106,01/11/2026 14:02
+STU0074,ENGLISH COMMUNICATION,47.5,-,91.6,N/A,2,2026-12-18,7.0,50,??,443,
+STU0108,engineering drawing,39.5,50,91.7,4.9,2,2026-12-16,6.7,45,??,646,2026-11-03T10:45:00
+STU0173,Engineering Drawing,28.5,50,77.3,5.5,1,2026-12-16,7.0,35,,1036,2026-11-03T10:45:00
+STU0122,Mathematics,36.5,50,98.6,5.2,4,2026-12-07,8.1,40,see note,726,Nov 2 2026
+STU0032,Engineering Drawing,44.5,50,90.6,14h 41m,3,2026-12-16,5.4,50,check later,190,2026-11-03T10:45:00
+STU0048,mathematics,31.5,50,78.2,9.5,4,December 07 2026,8.4,35,??,282,2026-11-03T10:45:00
+STU0005,english communication,40.0,50,100.0,6.7,3,2026-12-18,8.8,50,see note,29,2026-11-01 09:15
+STU0029,Physics,19.0,50,69.3,10.5,4,2026-12-09,7.3,30,,169,2026-11-01 09:15
+stu0167,English Communication,40.0,50,96.9,1.0hours,2,2026-12-18,7.5,50.0,,1001,2026-11-01 09:15
+STU0017,engineering drawing,30.0,NULL,83.3,6.0,1,2026-13-45,6.5,35,needs review,100,01/11/2026 14:02
+STU0033,English Communication,26.5,50,74.7,5.6,2,2026-12-18,7.5,30,,197,2026-11-01 09:15
+STU0083,Programming,38.5/50,50,0.741,6.5,4,2026-12-14,6.9,45,needs review,495,2026-11-03T10:45:00
+STU0108,english communication,43.0,50,75.3,5.8,2,2026-12-18,6.7,50,verified,647,2026-11-03T10:45:00
+STU0165,Programming,49.5,50,70.2,11.7,4,2026-12-14,7.2,50,late entry,987,2026-11-01 09:15
+STU0008	,chemistry ,30.5,50,64.3,7.8hours,3,12-11-2026,6.2,40pts,,44,yesterday
+STU0119,Chemistry, ,50,76.9,9.1,4,2026-12-11,6.5,50,late entry,710,Nov 2 2026
+STU0063,Physics,41.5,50,82.9,5.9,4,2026-12-09,6.0 hrs,50,,373,2026-11-01 09:15
+STU0114,Mathmatics,41.0,50,68.9,7.6,4,2026-12-07,7.4,45,??,678,2026-11-03T10:45:00
+STU0095,Chemistry,24.0,50,78.5,5.9,0,"Dec 11, 2026",6.0,30,see note,566,01/11/2026 14:02
+STU0142,Physcs,19.5,50,59.4,8h 18m,5,12-09-2026,8.0,25,check later,847,01/11/2026 14:02
+STU0077,ENGINEERING DRAWING,40.0,50,72.8,6.5,2,"Dec 16, 2026",7.8,50,check later,460,01/11/2026 14:02
+STU0193,Programming,42.0,50,,7.6,3,2026-12-14,6.9,50,check later,1155,
+STU0007,Programming,35.0,50,72.2,2.2,3,14-Dec-2026,6.8,45,??,39,2026-11-01 09:15
+STU0073,Chemistry,27.5,50,87.1,3.5hours,2,11.12.2026,7.6,35,,434,yesterday
+STU0163,Physics  ,51.5, 50,78%,3.7,2,2025-12-07,7.6,40,??,973,2026-11-03T10:45:00
+STU0168	,English Communication,39.0,50,80%,8.7,1,18/12/2026,6.5,50,,1007,2026-11-03T10:45:00
+STU0077,Mathematics,42.5,50,0.861,6.6,4,December 07 2026,7.8,50,retake,456,01/11/2026 14:02
+STU0044,Chemistry,35.5,50.0,99.3,5.5,NULL,2026-12-11,5.9,40,??,260,yesterday
+STU0006,English Communication ,38.5,50,77.8,5.0h,2,2026-12-18,7.2,45/50,see note,35,2026-11-03T10:45:00
+STU0138,English Communication,39.0,50,81.3,6.4,2,2026-12-18,6.0,high,verified,827,2026-11-01 09:15
+ STU0052 ,Programming,34.5,50,85.2,3.7,3,12-14-2026,6.3,40,,309,2026-11-03T10:45:00
+STU0047,Mathematics,21.5,50,78.8,5.3,3,2026-12-07,5.9,25,,276,2026-11-03T10:45:00
+stu0107,Mathematics,28.0,50,99.9,-,5,2026-12-07,8.2,30,,636,2026-11-03T10:45:00
+STU0110,Mathematics,24.0,50,71.0,7.5,3,12-07-2026,5.9,30,,654,2026-11-01 09:15
+S0104,Engineering Drawing,33.0,50,78%,7.2,3,16.12.2026,7.9,40.0,,622,01/11/2026 14:02
+ STU0141 ,Engineering Drawing,31.5,50,50.9,8.2,3,2026-12-16,5.6,40,,844,01/11/2026 14:02
+STU0066,Programming,42.5,50,91.7,9.4,3,2026-12-14,7.6,45,see note,393,2026-11-03T10:45:00
+STU-0018,English Communication,40.5,50,44.1,7h 5m,med,None,7.2,45,??,107,2026-11-03T10:45:00
+STU0059,physics,32.5,50,93.0,7.2,4,2026-12-09,6.9,40,,349,Nov 2 2026
+STU0088,Chemistry,44.0,50,53.9,7.9,2,2026-12-11,4.3,45,??,524,Nov 2 2026
+STU0131,Engineering Drawing, , ,84.1,7.3,3,2026-12-16,6.1,35,check later,784,2026-11-03T10:45:00
+STU0008,English Communication ,32.0,50,71.6,5.1,2,"Dec 18, 2026",6.3,45,needs review,47,2026-11-03T10:45:00
+STU0034,English Communication,38.0,50,84.4,7.1,3,2026-12-18,null,45,,203,2026-11-03T10:45:00
+STU0004,Programming,35.5,50,87.5,8.2,3,14-Dec-2026,0,40,verified,21,01/11/2026 14:02
+STU0068,Mathematics,48%,50,67.9,10.8,5,2026-12-07,6.3,30,,402,Nov 2 2026
+STU0185,Programming,30.5,50,61.5,7.9,3,2026-12-14,5.5,40,,1107,yesterday
+STU0193,chemistry ,44.0,100,78.8,7.6,3,2026-12-11,6.9h,50,retake,1154,
+STU0165,English Communication,49.5,50,68.0,9.4,1,18/12/2026,7.2,50,check later,989,2026-11-01 09:15
+STU0124,Prog.,25.0,50,93.0,3.7,3,December 14 2026,6.3,30,,741,yesterday
+STU0192	,Physics,37.0,50,60.2,6.7 hrs,4,2026-12-09,5.8,45,??,1147,
+STU0006,Programming,-,,87.5,462 min,2,2026-12-14,7.2,40pts,see note,33,2026-11-01 09:15
+STU0132,Physics,absent,50,89.7,11.7,4,2026-12-09,6.8,40,,787,2026-11-01 09:15
+STU0154,English Communication,42.0,50.0,77.9,4.4,1,2026-12-18,6.9,50,,923,yesterday
+STU0174,English Communication,32.0,50,?,10.5,3,2026-12-18,6.2, ,,1043,
+STU0119,Mathematics,49.0,50,85.0,8.3h,4.0,2026-12-07, ,50,needs review,708,Nov 2 2026
+STU0097,Programming,38.5,100,75.7,2.9,4,2026-12-14,6.5,45,,579,2026-11-03T10:45:00
+STU0081,Physics,32.5,50,84.1,7.0,4,26-12-09,7.0,45,check later,481,yesterday
+STU0156,Physics,51.5,50,66.9,4.0,4,2026-12-09,7.3,35,,931,2026-11-03T10:45:00
+STU0060,Chemistry,22.0,50,69.0,9.2,3,2026-12-11,6.7,None,??,356,2026-11-03T10:45:00
+STU0127,Programming,null,50,74.4,8.6,3,14/12/2026,6.6,40,late entry,759,
+STU0016,Chemistry,41.5,50,77.9,6.6,3,2026-12-11,6.5,None,needs review,92,2026-11-01 09:15
+STU0196,english communication,35.5,50,60.2,7.4,2,2026-12-18,6.2,45,,1175,
+STU0134,english communication,32.0,50,92.0,4.3,1,2026/12/18,7.8,35,,803,Nov 2 2026
+STU0125	,Physics,38.5,50,92.4,10.4,5,12-09-2026,6.5,50,,745,2026-11-03T10:45:00
+STU0047,PROGRAMMING,26.0 marks,50,68.7 %,5.9,3,"Dec 14, 2026",5.9,35,,279,Nov 2 2026
+STU0128,CHEMISTRY,21.0,50,77.3,5.9,3,"Dec 11, 2026",6.8,30 ,,764,2026-11-03T10:45:00
+STU0101,Engineering Drawing,28.0,50,79.6,7.9,3,2026-12-16,7.4,35,verified,604,yesterday
+STU0124,Prog.,25.0,50,93.0,3.7,3,December 14 2026,6.3,30,duplicate?,741,yesterday
+STU0067,Engineering Drawing,23.0,50,60.9,7.3hours,2,December 16 2026,7.3,25,,400,
+STU0043,English Communication,49.5,fifty,88.1,11.0,2,2026-12-18,7.5,50,retake,257,yesterday
+STU0158,Chemistry,34.0,50,98.5,7.5,4,2026-12-11,6.8,45,late entry,944,Nov 2 2026
+STU0183,ENGINEERING DRAWING,15.5,50,91.7,4.7,3,2026-12-16,8.9 hours,25,verified,1096,Nov 2 2026
+STU0174,English Communication,32.0,50,?,10.5,3,2026-12-18,6.2, ,,1043,
+STU0194,Programming,25.0  ,50,0.867,4.2,3,12-14-2026,7.4,35 ,,1161,Nov 2 2026
+STU0083,Chemistry,40.0,50,75.6,8.2,3,2026-12-11,6.9,45,retake,494,2026-11-01 09:15
+STU0129,Engineering Drawing,25.5,100,76.2,5.2 hrs,2,2026-12-16,7.2,35,retake,772,01/11/2026 14:02
+STU0092,Engineering Drawing,32.5,50,97.8,9.5,3,16/12/2026,7.8,40,see note,550,
+STU0034,programming,29.0,50,61%,9.4hours,3,2026-12-14,6.1,35,,201,2026-11-01 09:15
+STU0053,Mathematics,32.0,None,None,--,NA,2026-12-07,5.9,40,retake,312,2026-11-01 09:15
+STU0049,Chemistry,30.0,50,-10,5.0,2,December 11 2026,6.9h,35,retake,290,Nov 2 2026
+STU0032,programming,999,100,83.6,9.5,2,2026-12-14,5.4,40,verified,189,2026-11-03T10:45:00
+STU0128,Physcs,21.0,50,75.4,11.8,3,2026-12-09,6.8,25,late entry,763,yesterday
+STU0190,Chemistry,28.5,50,73.2,6.1,3,"Dec 11, 2026", ,35,,1136,Nov 2 2026
+STU0159,Physics  ,19.0,50,91.4,7.1,5,2026-12-09,6.4,30,needs review,949,
+STU0031,Programming,30.5,50,87.9,8.9,3 ,2026-12-14,7.1,40,needs review,183,Nov 2 2026
+STU0197,Mathematics,25.5,50,74.7%,5.4,Hard,2026-12-07,null,30,check later,1176,2026-11-01 09:15
+STU0179,Mathematics,85%,50,80.8,8.5,3,2026-12-07,7.2 hrs,50,,1068,01/11/2026 14:02
+STU0172,engineering drawing,48.0,50 marks,85.1,4.5,2,2026-12-16,6.0,50,??,1030,2026-11-01 09:15
+STU0042,Engineering Drawing,31.5,50,,576 min,4,December 16 2026,4.9,40,see note,250,yesterday
+STU0138,Physics,31.5,50,80.4,24,4,2026-12-09,6.0,40,retake,823,yesterday
+STU0184,Physics,30.5,50,86.3,8.8,null,2026-12-09,NA,35,,1099,yesterday
+STU0157,engineering drawing,45.5,50,70.8,8.6,2,2026-12-16,7.3,50,??,940,2026-11-01 09:15
+STU0066,Physics,36,50,79.4,48,4,"Dec 09, 2026",7.6,45,,391,Nov 2 2026
+STU0183,Mathematics,23.5,50,0.849,6.2,3,2026-13-45,8.9h,30,see note,1092,2026-11-03T10:45:00
+stu0199,Programming,42.0,50,88.3,6.6,4,14-Dec-2026,6.4,50,needs review,1191,Nov 2 2026
+STU0151,Engineering Drawing,39.0 marks,50,71.3,9.1,2,2026-12-16,5.8,50,retake,904,2026-11-01 09:15
+STU0122,Engineering Drawing,43,50,89.3,4.1,1,12-16-2026,8.1,50,late entry,730,01/11/2026 14:02
+STU0093,CHEMISTRY,41.0, 50,90%,9.1,2,2026-12-11,7.3h,50,,554,2026-11-03T10:45:00
+STU0062,Mathematics,13.5,50,52.0,7.1 hrs,4,2026-12-07,6.9,15,verified,366,
+STU0058,programming,31.5 marks,50,63.6,5.8,2,14-Dec-2026,6.1,--,verified,345,01/11/2026 14:02
+STU0090,Physics,22.5,50,83.3,5.4,3,26-12-09,8.3,30,check later,535,Nov 2 2026
+STU0111,Engineering Drawing,24.5,50,0.779,4.4hours,2 ,16.12.2026,6.4,30,retake,664,
+STU0154,PHYSICS,N/A,50,61.3,8.1,5,2026-12-09,6.9,35,late entry,919,2026-11-03T10:45:00
+STU0036,Physics  ,35.0,50,82.7,8.8,3,2026-12-09,8.3,40 ,see note,211,01/11/2026 14:02
+STU0084,,37.0,50,69.7,8.8,3,TBD,7.6 hours,45,see note,502,01/11/2026 14:02
+STU0090,Programming,22.0,50,92.8,4.3,2,14/12/2026,8.3,25,late entry,537,2026-11-03T10:45:00
+STU0168,Engineering Drawing,43.0,50,93.6,3.4,1,2026-12-16,6.5,45,,1006,01/11/2026 14:02
+STU0030,Physics,37.0,50,?,8.8,5,12-09-2026,5.4,45,late entry,175,2026-11-01 09:15
+Total records:,1200,,,,,,,,,,,
+Exported by admin,,,,,,,,,,,,
